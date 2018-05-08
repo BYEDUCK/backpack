@@ -1,0 +1,7011 @@
+Mutation probability: 1.0%
+Crossing over probability: 89%
+Number of items: 64
+Population cardinality: 500
+Number of iterations: 1000
+
+Generation [1]:
+Variance: 20739.21752236
+Standard deviation: 144.0111715192957
+Max: 1464.1
+Min: 499.50000000000006
+Average: 886.5458000000001
+
+Generation [2]:
+Variance: 20827.057198559993
+Standard deviation: 144.31582449114856
+Max: 1464.1
+Min: 539.7
+Average: 887.2988
+
+Generation [3]:
+Variance: 21177.663470239997
+Standard deviation: 145.5254736128352
+Max: 1464.1
+Min: 544.2
+Average: 886.8676
+
+Generation [4]:
+Variance: 21139.871439159997
+Standard deviation: 145.39556884293276
+Max: 1464.1
+Min: 516.9000000000001
+Average: 886.4922
+
+Generation [5]:
+Variance: 21703.694235999996
+Standard deviation: 147.32173714696685
+Max: 1414.5
+Min: 485.09999999999997
+Average: 887.7580000000002
+
+Generation [6]:
+Variance: 22263.746458999995
+Standard deviation: 149.2104100222233
+Max: 1395.6000000000001
+Min: 485.09999999999997
+Average: 890.409
+
+Generation [7]:
+Variance: 22152.166922239998
+Standard deviation: 148.83604040097276
+Max: 1395.6000000000001
+Min: 485.09999999999997
+Average: 889.7424000000001
+
+Generation [8]:
+Variance: 21474.918061239994
+Standard deviation: 146.54322932582042
+Max: 1395.6000000000001
+Min: 495.59999999999997
+Average: 891.4374000000001
+
+Generation [9]:
+Variance: 21067.33972716
+Standard deviation: 145.14592563058739
+Max: 1312.8
+Min: 495.59999999999997
+Average: 891.3778000000001
+
+Generation [10]:
+Variance: 21073.465805239997
+Standard deviation: 145.16702726597384
+Max: 1321.6
+Min: 495.59999999999997
+Average: 892.0926000000001
+
+Generation [11]:
+Variance: 21461.71069324
+Standard deviation: 146.49815935103075
+Max: 1310.7999999999995
+Min: 479.7
+Average: 890.4474
+
+Generation [12]:
+Variance: 20850.416185439997
+Standard deviation: 144.39673190706222
+Max: 1310.7999999999995
+Min: 479.7
+Average: 890.8884000000002
+
+Generation [13]:
+Variance: 20674.89122016
+Standard deviation: 143.7876601804202
+Max: 1310.7999999999995
+Min: 487.6
+Average: 891.3272000000001
+
+Generation [14]:
+Variance: 20995.370055159998
+Standard deviation: 144.89779175391183
+Max: 1320.9
+Min: 458.3999999999999
+Average: 889.1978
+
+Generation [15]:
+Variance: 20908.404034999996
+Standard deviation: 144.59738598951225
+Max: 1365.8999999999999
+Min: 516.0
+Average: 889.575
+
+Generation [16]:
+Variance: 21469.280239359996
+Standard deviation: 146.52399202642547
+Max: 1365.8999999999999
+Min: 487.1
+Average: 890.4992000000002
+
+Generation [17]:
+Variance: 21684.58241484
+Standard deviation: 147.25685863429248
+Max: 1365.8999999999999
+Min: 487.1
+Average: 889.2746000000001
+
+Generation [18]:
+Variance: 21438.842213239997
+Standard deviation: 146.42008814790407
+Max: 1310.7999999999995
+Min: 487.1
+Average: 888.7474000000001
+
+Generation [19]:
+Variance: 5135.3022670400005
+Standard deviation: 71.6610233463073
+Max: 1214.7999999999997
+Min: 575.5
+Average: 591.4036
+
+Generation [20]:
+Variance: 277.3988231599999
+Standard deviation: 16.65529414810798
+Max: 583.6999999999999
+Min: 466.8
+Average: 568.8322
+
+Generation [21]:
+Variance: 569.6564999999998
+Standard deviation: 23.867477872619883
+Max: 610.8000000000001
+Min: 459.50000000000006
+Average: 562.03
+
+Generation [22]:
+Variance: 1093.2231479599998
+Standard deviation: 33.063925174727814
+Max: 610.8000000000001
+Min: 437.59999999999997
+Average: 553.4698
+
+Generation [23]:
+Variance: 1387.3278721600002
+Standard deviation: 37.24685049987448
+Max: 610.8000000000001
+Min: 418.7
+Average: 543.3972
+
+Generation [24]:
+Variance: 1453.8465110400005
+Standard deviation: 38.12933924211119
+Max: 629.9000000000001
+Min: 424.59999999999997
+Average: 539.2664
+
+Generation [25]:
+Variance: 1566.5831124400004
+Standard deviation: 39.580084795765664
+Max: 604.0
+Min: 400.4
+Average: 532.9266000000001
+
+Generation [26]:
+Variance: 1821.3064871600006
+Standard deviation: 42.676767534104556
+Max: 630.2000000000002
+Min: 386.99999999999994
+Average: 527.7221999999999
+
+Generation [27]:
+Variance: 1922.0783745600008
+Standard deviation: 43.841514282241675
+Max: 652.6000000000001
+Min: 386.99999999999994
+Average: 526.5612
+
+Generation [28]:
+Variance: 1860.7677222400011
+Standard deviation: 43.13661695404498
+Max: 652.6000000000001
+Min: 349.50000000000006
+Average: 523.2576
+
+Generation [29]:
+Variance: 2149.678597560001
+Standard deviation: 46.36462657630277
+Max: 643.8000000000001
+Min: 349.50000000000006
+Average: 520.5838
+
+Generation [30]:
+Variance: 2148.7979447600014
+Standard deviation: 46.355128570202474
+Max: 632.0999999999999
+Min: 304.2
+Average: 518.7782000000001
+
+Generation [31]:
+Variance: 2449.4026550400017
+Standard deviation: 49.49144021990067
+Max: 632.4000000000001
+Min: 359.8999999999999
+Average: 516.3864
+
+Generation [32]:
+Variance: 2570.255074360001
+Standard deviation: 50.6976831261548
+Max: 620.7
+Min: 358.7
+Average: 514.1758000000001
+
+Generation [33]:
+Variance: 2713.772024440001
+Standard deviation: 52.093877034062274
+Max: 626.9
+Min: 372.2
+Average: 513.8166
+
+Generation [34]:
+Variance: 2869.6427015600016
+Standard deviation: 53.569046113964
+Max: 636.1
+Min: 386.7
+Average: 509.05620000000005
+
+Generation [35]:
+Variance: 2725.174648760001
+Standard deviation: 52.20320534948023
+Max: 631.2
+Min: 325.09999999999997
+Average: 505.31819999999993
+
+Generation [36]:
+Variance: 2717.379038840001
+Standard deviation: 52.12848586751778
+Max: 636.1
+Min: 323.09999999999997
+Average: 501.40459999999996
+
+Generation [37]:
+Variance: 2481.557239360001
+Standard deviation: 49.815230997758114
+Max: 636.1
+Min: 323.09999999999997
+Average: 501.3992
+
+Generation [38]:
+Variance: 2745.8848600000015
+Standard deviation: 52.40119139866957
+Max: 640.5000000000001
+Min: 323.09999999999997
+Average: 500.07
+
+Generation [39]:
+Variance: 2902.094899000002
+Standard deviation: 53.87109520884091
+Max: 634.2
+Min: 292.7
+Average: 500.951
+
+Generation [40]:
+Variance: 2876.935472440001
+Standard deviation: 53.63707181082876
+Max: 620.7
+Min: 292.7
+Average: 497.72339999999997
+
+Generation [41]:
+Variance: 2885.552318240001
+Standard deviation: 53.71733722216693
+Max: 658.9000000000002
+Min: 271.90000000000003
+Average: 501.8724
+
+Generation [42]:
+Variance: 2929.4540630400015
+Standard deviation: 54.124431295303246
+Max: 651.8000000000001
+Min: 402.4
+Average: 500.07360000000006
+
+Generation [43]:
+Variance: 2894.9718071600014
+Standard deviation: 53.80494221872189
+Max: 669.3000000000001
+Min: 393.50000000000006
+Average: 498.0722
+
+Generation [44]:
+Variance: 3240.088780000002
+Standard deviation: 56.9217777304961
+Max: 669.3000000000001
+Min: 361.3
+Average: 502.21
+
+Generation [45]:
+Variance: 3991.893297440002
+Standard deviation: 63.181431587452984
+Max: 671.7
+Min: 297.20000000000005
+Average: 503.4516
+
+Generation [46]:
+Variance: 4108.372488640002
+Standard deviation: 64.09658718403034
+Max: 669.8000000000001
+Min: 313.7
+Average: 502.3056
+
+Generation [47]:
+Variance: 3846.3967054400023
+Standard deviation: 62.019325257858156
+Max: 669.8000000000001
+Min: 354.8
+Average: 503.38840000000005
+
+Generation [48]:
+Variance: 3829.386386560002
+Standard deviation: 61.882036057001244
+Max: 669.8000000000001
+Min: 352.90000000000003
+Average: 501.2312
+
+Generation [49]:
+Variance: 3801.6429524400023
+Standard deviation: 61.6574646935795
+Max: 659.4000000000001
+Min: 334.69999999999993
+Average: 501.42659999999995
+
+Generation [50]:
+Variance: 3936.942183360002
+Standard deviation: 62.745057043244465
+Max: 652.6
+Min: 334.69999999999993
+Average: 505.46080000000006
+
+Generation [51]:
+Variance: 4048.0050590000023
+Standard deviation: 63.62393463941068
+Max: 652.6
+Min: 360.09999999999997
+Average: 506.859
+
+Generation [52]:
+Variance: 4279.378071160002
+Standard deviation: 65.41695553264461
+Max: 652.6
+Min: 345.99999999999994
+Average: 505.51219999999995
+
+Generation [53]:
+Variance: 4114.503990840002
+Standard deviation: 64.1443995282519
+Max: 658.5
+Min: 345.7
+Average: 508.90540000000004
+
+Generation [54]:
+Variance: 3997.7654839600023
+Standard deviation: 63.227885335190535
+Max: 660.8
+Min: 352.8
+Average: 508.00980000000004
+
+Generation [55]:
+Variance: 3838.463589240002
+Standard deviation: 61.95533543803957
+Max: 660.8
+Min: 299.20000000000005
+Average: 506.72740000000005
+
+Generation [56]:
+Variance: 3957.676400440002
+Standard deviation: 62.91006597071729
+Max: 660.8
+Min: 383.6
+Average: 516.5134
+
+Generation [57]:
+Variance: 4234.233446840002
+Standard deviation: 65.07098775060973
+Max: 671.0000000000001
+Min: 357.1
+Average: 513.5146
+
+Generation [58]:
+Variance: 4155.663075000002
+Standard deviation: 64.46443263536881
+Max: 672.6
+Min: 362.09999999999997
+Average: 508.745
+
+Generation [59]:
+Variance: 4347.7076052400025
+Standard deviation: 65.93714890135911
+Max: 685.6
+Min: 382.49999999999994
+Average: 510.5074
+
+Generation [60]:
+Variance: 4077.596794360002
+Standard deviation: 63.856063097876635
+Max: 685.6
+Min: 372.0000000000001
+Average: 513.4742
+
+Generation [61]:
+Variance: 4728.001379000002
+Standard deviation: 68.7604637782498
+Max: 685.6
+Min: 348.5999999999999
+Average: 522.561
+
+Generation [62]:
+Variance: 4282.7462518400025
+Standard deviation: 65.44269441152315
+Max: 690.4
+Min: 348.5999999999999
+Average: 522.9896
+
+Generation [63]:
+Variance: 4319.029994240002
+Standard deviation: 65.71932740252294
+Max: 690.4
+Min: 400.3
+Average: 530.4024000000001
+
+Generation [64]:
+Variance: 4279.782741560002
+Standard deviation: 65.42004846803465
+Max: 690.4
+Min: 400.3
+Average: 534.5438
+
+Generation [65]:
+Variance: 4487.711687360002
+Standard deviation: 66.99038503666031
+Max: 700.5000000000001
+Min: 385.8
+Average: 534.4792
+
+Generation [66]:
+Variance: 4584.053731040002
+Standard deviation: 67.7056403192526
+Max: 700.5000000000001
+Min: 380.2
+Average: 539.1836000000001
+
+Generation [67]:
+Variance: 4882.778086840002
+Standard deviation: 69.87687805590632
+Max: 700.5000000000001
+Min: 380.2
+Average: 539.4854
+
+Generation [68]:
+Variance: 4973.126379000002
+Standard deviation: 70.5203969004713
+Max: 703.1000000000001
+Min: 393.4
+Average: 548.321
+
+Generation [69]:
+Variance: 4595.101629240003
+Standard deviation: 67.78717894439923
+Max: 700.5000000000001
+Min: 393.4
+Average: 546.4274
+
+Generation [70]:
+Variance: 4925.639645440003
+Standard deviation: 70.18290137519254
+Max: 705.5000000000001
+Min: 387.59999999999997
+Average: 542.9616
+
+Generation [71]:
+Variance: 4874.167920440002
+Standard deviation: 69.81524131907017
+Max: 700.5000000000001
+Min: 387.59999999999997
+Average: 540.2134
+
+Generation [72]:
+Variance: 5223.001022560003
+Standard deviation: 72.27033293516781
+Max: 715.2000000000002
+Min: 395.09999999999997
+Average: 546.1588
+
+Generation [73]:
+Variance: 5194.571710240003
+Standard deviation: 72.07337726400785
+Max: 726.2
+Min: 415.3
+Average: 545.0676
+
+Generation [74]:
+Variance: 5714.012255360003
+Standard deviation: 75.59108581942716
+Max: 727.8000000000001
+Min: 401.59999999999997
+Average: 548.4592
+
+Generation [75]:
+Variance: 5408.853270560002
+Standard deviation: 73.54490648957277
+Max: 715.2000000000002
+Min: 382.3
+Average: 545.9788000000001
+
+Generation [76]:
+Variance: 5809.386299840004
+Standard deviation: 76.21933022429418
+Max: 727.8000000000001
+Min: 387.20000000000005
+Average: 547.9504000000001
+
+Generation [77]:
+Variance: 5678.925803640004
+Standard deviation: 75.3586478357992
+Max: 727.8000000000001
+Min: 393.6
+Average: 548.6694
+
+Generation [78]:
+Variance: 5912.393671360003
+Standard deviation: 76.89209108458427
+Max: 727.8000000000001
+Min: 380.0
+Average: 550.1192
+
+Generation [79]:
+Variance: 5565.682261440003
+Standard deviation: 74.60350032967624
+Max: 735.4
+Min: 380.0
+Average: 546.7184
+
+Generation [80]:
+Variance: 5379.452577440002
+Standard deviation: 73.34475153301702
+Max: 727.8000000000001
+Min: 403.49999999999994
+Average: 548.6516000000001
+
+Generation [81]:
+Variance: 5758.229618360004
+Standard deviation: 75.88299953454663
+Max: 727.8000000000001
+Min: 387.29999999999995
+Average: 550.9642
+
+Generation [82]:
+Variance: 5114.257131000003
+Standard deviation: 71.51403450372523
+Max: 723.1
+Min: 387.29999999999995
+Average: 549.167
+
+Generation [83]:
+Variance: 5284.1806598400035
+Standard deviation: 72.69237002492079
+Max: 721.8000000000001
+Min: 379.5
+Average: 549.2496000000001
+
+Generation [84]:
+Variance: 5836.659240160005
+Standard deviation: 76.39803165108381
+Max: 721.8000000000001
+Min: 379.5
+Average: 546.5772
+
+Generation [85]:
+Variance: 5299.941339000003
+Standard deviation: 72.8006960062883
+Max: 721.8000000000001
+Min: 302.5
+Average: 535.309
+
+Generation [86]:
+Variance: 4364.548894240002
+Standard deviation: 66.06473260552866
+Max: 717.0
+Min: 302.5
+Average: 527.6476000000001
+
+Generation [87]:
+Variance: 4537.966956000002
+Standard deviation: 67.36443390989048
+Max: 704.4000000000001
+Min: 396.4
+Average: 535.662
+
+Generation [88]:
+Variance: 4661.139151160001
+Standard deviation: 68.272535848319
+Max: 749.1
+Min: 369.79999999999995
+Average: 541.1378000000001
+
+Generation [89]:
+Variance: 3726.9369841600014
+Standard deviation: 61.048644408864654
+Max: 701.7
+Min: 369.79999999999995
+Average: 537.2171999999999
+
+Generation [90]:
+Variance: 4103.659634040002
+Standard deviation: 64.05981294103194
+Max: 743.6000000000001
+Min: 369.29999999999995
+Average: 536.5186
+
+Generation [91]:
+Variance: 4658.861228640003
+Standard deviation: 68.25585124104748
+Max: 743.6000000000001
+Min: 369.29999999999995
+Average: 537.4444
+
+Generation [92]:
+Variance: 5101.295070240003
+Standard deviation: 71.42335101519673
+Max: 743.6000000000001
+Min: 352.2
+Average: 538.8676
+
+Generation [93]:
+Variance: 4877.6518660400025
+Standard deviation: 69.84018804413404
+Max: 736.0000000000001
+Min: 347.69999999999993
+Average: 536.6414
+
+Generation [94]:
+Variance: 5510.879476160003
+Standard deviation: 74.23529804722281
+Max: 744.6
+Min: 409.49999999999994
+Average: 545.8128
+
+Generation [95]:
+Variance: 6040.865260640003
+Standard deviation: 77.72300342009439
+Max: 744.6
+Min: 362.09999999999997
+Average: 554.1044
+
+Generation [96]:
+Variance: 6427.233979000002
+Standard deviation: 80.17003167643132
+Max: 763.5
+Min: 394.49999999999994
+Average: 549.129
+
+Generation [97]:
+Variance: 7150.629739000002
+Standard deviation: 84.56139626921968
+Max: 763.5
+Min: 394.49999999999994
+Average: 547.799
+
+Generation [98]:
+Variance: 7329.8653782400015
+Standard deviation: 85.61463296796875
+Max: 763.5
+Min: 417.9
+Average: 547.3776000000001
+
+Generation [99]:
+Variance: 7968.084259960001
+Standard deviation: 89.26412638882431
+Max: 763.5
+Min: 389.8
+Average: 549.2498
+
+Generation [100]:
+Variance: 8368.666697760002
+Standard deviation: 91.48041701785144
+Max: 766.3000000000001
+Min: 405.4
+Average: 552.1332000000001
+
+Generation [101]:
+Variance: 9933.21399084
+Standard deviation: 99.66551053819973
+Max: 766.3000000000001
+Min: 389.2
+Average: 558.3446
+
+Generation [102]:
+Variance: 9482.250531000003
+Standard deviation: 97.37684802354204
+Max: 766.3000000000001
+Min: 392.79999999999995
+Average: 562.343
+
+Generation [103]:
+Variance: 9782.907179000002
+Standard deviation: 98.90857990589089
+Max: 766.3000000000001
+Min: 374.1999999999999
+Average: 571.819
+
+Generation [104]:
+Variance: 9703.894923960002
+Standard deviation: 98.50834951393715
+Max: 763.5
+Min: 400.9
+Average: 576.6598
+
+Generation [105]:
+Variance: 10232.771659000002
+Standard deviation: 101.15716316208162
+Max: 763.5
+Min: 400.9
+Average: 586.819
+
+Generation [106]:
+Variance: 10556.271853240001
+Standard deviation: 102.74371928852878
+Max: 764.2
+Min: 400.9
+Average: 585.2526
+
+Generation [107]:
+Variance: 11616.594117760003
+Standard deviation: 107.78030486948904
+Max: 764.2
+Min: 326.79999999999995
+Average: 578.0832
+
+Generation [108]:
+Variance: 12603.940173240002
+Standard deviation: 112.26727115789357
+Max: 779.9000000000001
+Min: 374.8
+Average: 596.6526
+
+Generation [109]:
+Variance: 12506.75465264
+Standard deviation: 111.8336025201728
+Max: 779.9000000000001
+Min: 374.8
+Average: 599.2644000000001
+
+Generation [110]:
+Variance: 11468.340882240002
+Standard deviation: 107.09033981755778
+Max: 792.7
+Min: 436.7000000000001
+Average: 593.0424
+
+Generation [111]:
+Variance: 11600.99568396
+Standard deviation: 107.7079183902465
+Max: 796.9
+Min: 379.00000000000006
+Average: 594.2402
+
+Generation [112]:
+Variance: 11527.86345324
+Standard deviation: 107.36788837096499
+Max: 792.7
+Min: 323.8
+Average: 597.6474000000001
+
+Generation [113]:
+Variance: 11080.752678840001
+Standard deviation: 105.26515415292945
+Max: 792.1
+Min: 350.3
+Average: 597.2954
+
+Generation [114]:
+Variance: 9118.71228464
+Standard deviation: 95.49194879485914
+Max: 792.7
+Min: 350.3
+Average: 586.6756
+
+Generation [115]:
+Variance: 9014.544791159999
+Standard deviation: 94.9449566388863
+Max: 792.7
+Min: 382.50000000000006
+Average: 588.1378000000001
+
+Generation [116]:
+Variance: 9193.08721424
+Standard deviation: 95.88058830774872
+Max: 781.2
+Min: 362.50000000000006
+Average: 588.4476000000001
+
+Generation [117]:
+Variance: 9229.868427039999
+Standard deviation: 96.072204237438
+Max: 770.2
+Min: 362.50000000000006
+Average: 584.1036
+
+Generation [118]:
+Variance: 8691.83436896
+Standard deviation: 93.23000787815047
+Max: 774.5999999999999
+Min: 388.8
+Average: 585.2152
+
+Generation [119]:
+Variance: 8262.554552759999
+Standard deviation: 90.89859488881002
+Max: 774.5999999999999
+Min: 388.8
+Average: 583.9418000000001
+
+Generation [120]:
+Variance: 8694.34462316
+Standard deviation: 93.24346960061064
+Max: 774.5999999999999
+Min: 394.2
+Average: 594.2678000000001
+
+Generation [121]:
+Variance: 8180.13072064
+Standard deviation: 90.44407509969903
+Max: 778.1999999999999
+Min: 394.2
+Average: 597.5456000000001
+
+Generation [122]:
+Variance: 8080.0362509999995
+Standard deviation: 89.8890218602917
+Max: 800.9
+Min: 436.70000000000005
+Average: 600.577
+
+Generation [123]:
+Variance: 7482.88418796
+Standard deviation: 86.50366574868374
+Max: 800.9
+Min: 418.80000000000007
+Average: 589.4698000000001
+
+Generation [124]:
+Variance: 8116.68487824
+Standard deviation: 90.09264608301834
+Max: 784.1
+Min: 400.79999999999995
+Average: 592.4723999999999
+
+Generation [125]:
+Variance: 8467.147674999998
+Standard deviation: 92.01710533917048
+Max: 784.1
+Min: 398.09999999999997
+Average: 589.255
+
+Generation [126]:
+Variance: 8585.131130999998
+Standard deviation: 92.6559827048421
+Max: 784.1
+Min: 419.59999999999997
+Average: 598.083
+
+Generation [127]:
+Variance: 9691.037019039999
+Standard deviation: 98.44306486004994
+Max: 784.1
+Min: 419.59999999999997
+Average: 600.9436
+
+Generation [128]:
+Variance: 9078.925396159999
+Standard deviation: 95.28339517544491
+Max: 784.1
+Min: 419.59999999999997
+Average: 600.2128
+
+Generation [129]:
+Variance: 9005.47095936
+Standard deviation: 94.89715991198051
+Max: 784.1
+Min: 398.99999999999994
+Average: 606.8008000000001
+
+Generation [130]:
+Variance: 9105.689861559998
+Standard deviation: 95.4237384593582
+Max: 784.1
+Min: 377.90000000000003
+Average: 600.3562
+
+Generation [131]:
+Variance: 9016.82532816
+Standard deviation: 94.95696566424182
+Max: 790.5
+Min: 361.8
+Average: 608.8572
+
+Generation [132]:
+Variance: 7835.801914999999
+Standard deviation: 88.52006504177456
+Max: 785.5
+Min: 420.0
+Average: 605.9749999999999
+
+Generation [133]:
+Variance: 8412.137765239999
+Standard deviation: 91.71770693404845
+Max: 792.9
+Min: 360.6
+Average: 603.7426
+
+Generation [134]:
+Variance: 7336.1362916399985
+Standard deviation: 85.65124804484753
+Max: 784.1
+Min: 360.6
+Average: 594.7094
+
+Generation [135]:
+Variance: 7266.136772639999
+Standard deviation: 85.24163755254823
+Max: 784.1
+Min: 413.4
+Average: 594.9644000000001
+
+Generation [136]:
+Variance: 7558.32497196
+Standard deviation: 86.93862761718752
+Max: 807.5
+Min: 392.0
+Average: 593.7798
+
+Generation [137]:
+Variance: 8247.87405424
+Standard deviation: 90.81780692265146
+Max: 807.5
+Min: 446.8
+Average: 592.0523999999999
+
+Generation [138]:
+Variance: 8312.672594999998
+Standard deviation: 91.17385916478472
+Max: 807.5
+Min: 442.9
+Average: 589.805
+
+Generation [139]:
+Variance: 9101.477872439998
+Standard deviation: 95.40166598356655
+Max: 797.6
+Min: 439.5
+Average: 601.2266000000001
+
+Generation [140]:
+Variance: 9397.47552944
+Standard deviation: 96.94057731125805
+Max: 797.6
+Min: 417.59999999999997
+Average: 610.6084000000001
+
+Generation [141]:
+Variance: 8608.38897696
+Standard deviation: 92.78140426270772
+Max: 806.5
+Min: 404.70000000000005
+Average: 609.1048
+
+Generation [142]:
+Variance: 8252.68224684
+Standard deviation: 90.84427470589438
+Max: 806.5
+Min: 404.70000000000005
+Average: 607.8354
+
+Generation [143]:
+Variance: 8275.868605560001
+Standard deviation: 90.97180115596261
+Max: 820.5999999999999
+Min: 323.70000000000005
+Average: 613.9038
+
+Generation [144]:
+Variance: 8782.59039404
+Standard deviation: 93.71547574461755
+Max: 794.0
+Min: 323.70000000000005
+Average: 620.5686
+
+Generation [145]:
+Variance: 9006.002496
+Standard deviation: 94.8999604636377
+Max: 794.7
+Min: 347.70000000000005
+Average: 621.472
+
+Generation [146]:
+Variance: 8552.71936556
+Standard deviation: 92.48091352035836
+Max: 811.0000000000001
+Min: 347.70000000000005
+Average: 619.0462
+
+Generation [147]:
+Variance: 8466.822756000001
+Standard deviation: 92.0153397863639
+Max: 801.3
+Min: 347.70000000000005
+Average: 617.958
+
+Generation [148]:
+Variance: 9326.222376160002
+Standard deviation: 96.57236859557707
+Max: 801.3
+Min: 406.1
+Average: 621.7628000000001
+
+Generation [149]:
+Variance: 9066.336538040001
+Standard deviation: 95.21731217609538
+Max: 801.6
+Min: 407.1
+Average: 615.7986000000001
+
+Generation [150]:
+Variance: 9387.975600000003
+Standard deviation: 96.89156619644459
+Max: 787.5
+Min: 417.9
+Average: 606.22
+
+Generation [151]:
+Variance: 9679.067333240002
+Standard deviation: 98.38225110882553
+Max: 787.5
+Min: 422.9000000000001
+Average: 618.6974
+
+Generation [152]:
+Variance: 8978.593048960001
+Standard deviation: 94.75543809702957
+Max: 791.3
+Min: 429.0
+Average: 618.0151999999999
+
+Generation [153]:
+Variance: 8656.132992760002
+Standard deviation: 93.0383415198272
+Max: 791.3
+Min: 430.1
+Average: 606.5581999999999
+
+Generation [154]:
+Variance: 8250.97809004
+Standard deviation: 90.83489467181651
+Max: 798.4
+Min: 425.0
+Average: 605.7613999999999
+
+Generation [155]:
+Variance: 7684.46965776
+Standard deviation: 87.66110687049303
+Max: 791.0999999999999
+Min: 434.8000000000001
+Average: 606.6668000000001
+
+Generation [156]:
+Variance: 7806.93464656
+Standard deviation: 88.35685964632287
+Max: 795.4999999999999
+Min: 389.80000000000007
+Average: 603.5188
+
+Generation [157]:
+Variance: 7168.53856384
+Standard deviation: 84.66722248804433
+Max: 809.2
+Min: 430.50000000000006
+Average: 604.3703999999999
+
+Generation [158]:
+Variance: 7646.32894316
+Standard deviation: 87.44328986926327
+Max: 809.2
+Min: 391.40000000000003
+Average: 601.6822000000001
+
+Generation [159]:
+Variance: 7350.095858999999
+Standard deviation: 85.7327000566295
+Max: 809.2
+Min: 391.40000000000003
+Average: 598.439
+
+Generation [160]:
+Variance: 6800.85355296
+Standard deviation: 82.46728777497172
+Max: 809.2
+Min: 403.79999999999995
+Average: 592.9448000000001
+
+Generation [161]:
+Variance: 7642.115674359998
+Standard deviation: 87.41919511388788
+Max: 809.2
+Min: 404.09999999999997
+Average: 600.6257999999999
+
+Generation [162]:
+Variance: 7822.079704
+Standard deviation: 88.44252203550055
+Max: 802.4999999999999
+Min: 404.09999999999997
+Average: 605.636
+
+Generation [163]:
+Variance: 8035.634668959999
+Standard deviation: 89.64170161794118
+Max: 802.4999999999999
+Min: 404.09999999999997
+Average: 598.7652
+
+Generation [164]:
+Variance: 8812.557496
+Standard deviation: 93.87522301438223
+Max: 802.4999999999999
+Min: 323.1
+Average: 603.748
+
+Generation [165]:
+Variance: 9396.390816
+Standard deviation: 96.93498241605039
+Max: 810.4
+Min: 323.1
+Average: 605.9079999999999
+
+Generation [166]:
+Variance: 9124.001491359997
+Standard deviation: 95.51963929663887
+Max: 824.6999999999999
+Min: 422.3999999999999
+Average: 608.6691999999999
+
+Generation [167]:
+Variance: 10704.606248159997
+Standard deviation: 103.46306707303818
+Max: 815.4
+Min: 418.6
+Average: 625.9427999999999
+
+Generation [168]:
+Variance: 9544.434781759997
+Standard deviation: 97.69562314535897
+Max: 819.6999999999998
+Min: 408.9
+Average: 630.9232000000001
+
+Generation [169]:
+Variance: 8333.476184439998
+Standard deviation: 91.28787534190944
+Max: 819.6999999999998
+Min: 405.5
+Average: 629.1334
+
+Generation [170]:
+Variance: 8985.148647359998
+Standard deviation: 94.79002398649342
+Max: 819.6999999999998
+Min: 344.0
+Average: 625.4792
+
+Generation [171]:
+Variance: 9215.124693439997
+Standard deviation: 95.99544100341431
+Max: 819.6999999999998
+Min: 433.99999999999994
+Average: 633.2216000000001
+
+Generation [172]:
+Variance: 9314.546778999997
+Standard deviation: 96.51189967563583
+Max: 826.9
+Min: 456.40000000000003
+Average: 636.681
+
+Generation [173]:
+Variance: 8961.386710839999
+Standard deviation: 94.6646011497434
+Max: 826.9
+Min: 439.40000000000003
+Average: 630.5446
+
+Generation [174]:
+Variance: 8932.961863159999
+Standard deviation: 94.51434739318681
+Max: 826.9
+Min: 421.8
+Average: 633.2822
+
+Generation [175]:
+Variance: 8118.567091
+Standard deviation: 90.10309146194707
+Max: 821.3000000000001
+Min: 437.5
+Average: 630.353
+
+Generation [176]:
+Variance: 7796.353539
+Standard deviation: 88.29696222973925
+Max: 821.3000000000001
+Min: 428.9
+Average: 628.471
+
+Generation [177]:
+Variance: 7624.3673694399995
+Standard deviation: 87.31762347567643
+Max: 840.3
+Min: 452.49999999999994
+Average: 630.2083999999999
+
+Generation [178]:
+Variance: 8054.243854840001
+Standard deviation: 89.74543918684671
+Max: 840.3
+Min: 444.20000000000005
+Average: 637.7753999999999
+
+Generation [179]:
+Variance: 7566.96668524
+Standard deviation: 86.98831349807858
+Max: 817.1999999999999
+Min: 423.4
+Average: 634.1426
+
+Generation [180]:
+Variance: 7377.104059
+Standard deviation: 85.89006961808798
+Max: 817.1999999999999
+Min: 427.99999999999994
+Average: 633.821
+
+Generation [181]:
+Variance: 7395.9576822399995
+Standard deviation: 85.99975396615969
+Max: 826.1999999999999
+Min: 427.99999999999994
+Average: 629.2424
+
+Generation [182]:
+Variance: 7162.775205240001
+Standard deviation: 84.63318028551214
+Max: 817.1999999999999
+Min: 423.9
+Average: 625.0074000000001
+
+Generation [183]:
+Variance: 6966.090669239999
+Standard deviation: 83.46310963078238
+Max: 817.1999999999999
+Min: 427.99999999999994
+Average: 624.3226000000001
+
+Generation [184]:
+Variance: 7132.992679999999
+Standard deviation: 84.4570463608573
+Max: 817.1999999999999
+Min: 427.99999999999994
+Average: 622.92
+
+Generation [185]:
+Variance: 6876.76091916
+Standard deviation: 82.92623782109014
+Max: 817.1999999999999
+Min: 427.99999999999994
+Average: 622.5578
+
+Generation [186]:
+Variance: 6511.264117560002
+Standard deviation: 80.69240433621991
+Max: 817.1999999999999
+Min: 459.49999999999994
+Average: 615.2162000000001
+
+Generation [187]:
+Variance: 5862.243520440002
+Standard deviation: 76.56528926635099
+Max: 817.1999999999999
+Min: 402.40000000000003
+Average: 615.5633999999999
+
+Generation [188]:
+Variance: 5899.122307960001
+Standard deviation: 76.80574397764794
+Max: 817.1999999999999
+Min: 379.29999999999995
+Average: 613.7801999999999
+
+Generation [189]:
+Variance: 6882.875840440001
+Standard deviation: 82.9630992697356
+Max: 817.1999999999999
+Min: 379.29999999999995
+Average: 619.4134
+
+Generation [190]:
+Variance: 5885.713519160002
+Standard deviation: 76.71840404466194
+Max: 817.1999999999999
+Min: 405.2
+Average: 616.3078
+
+Generation [191]:
+Variance: 6622.1211847600025
+Standard deviation: 81.3764166375001
+Max: 817.1999999999999
+Min: 428.2
+Average: 620.9218000000001
+
+Generation [192]:
+Variance: 6357.5903569600005
+Standard deviation: 79.73449916416357
+Max: 817.1999999999999
+Min: 473.1999999999999
+Average: 619.7452
+
+Generation [193]:
+Variance: 7058.83382124
+Standard deviation: 84.01686629028721
+Max: 817.1999999999999
+Min: 414.29999999999995
+Average: 625.7626
+
+Generation [194]:
+Variance: 7868.946939000001
+Standard deviation: 88.70708505525363
+Max: 822.4
+Min: 451.9
+Average: 630.119
+
+Generation [195]:
+Variance: 8263.554984
+Standard deviation: 90.90409772942031
+Max: 822.4
+Min: 468.39999999999986
+Average: 634.936
+
+Generation [196]:
+Variance: 8057.468064960003
+Standard deviation: 89.76340047569501
+Max: 831.4000000000001
+Min: 468.39999999999986
+Average: 633.8248000000001
+
+Generation [197]:
+Variance: 8028.020738360003
+Standard deviation: 89.59922286694234
+Max: 842.4000000000001
+Min: 450.4
+Average: 631.0858000000001
+
+Generation [198]:
+Variance: 7323.209571000001
+Standard deviation: 85.5757534059736
+Max: 831.4000000000001
+Min: 471.1000000000001
+Average: 626.543
+
+Generation [199]:
+Variance: 7530.133940960003
+Standard deviation: 86.77634436273519
+Max: 820.0
+Min: 440.50000000000006
+Average: 623.5148
+
+Generation [200]:
+Variance: 7037.243720440004
+Standard deviation: 83.8882811865877
+Max: 825.2
+Min: 440.6000000000001
+Average: 617.1866
+
+Generation [201]:
+Variance: 6775.527003640003
+Standard deviation: 82.31358942264639
+Max: 825.2
+Min: 433.1000000000001
+Average: 616.6806
+
+Generation [202]:
+Variance: 6369.585000000004
+Standard deviation: 79.80967986403657
+Max: 825.2
+Min: 461.2999999999999
+Average: 614.92
+
+Generation [203]:
+Variance: 6086.557313760004
+Standard deviation: 78.0163913146462
+Max: 820.0
+Min: 453.9
+Average: 613.9932
+
+Generation [204]:
+Variance: 5878.435773240004
+Standard deviation: 76.67095782132895
+Max: 820.0
+Min: 330.2
+Average: 615.4974
+
+Generation [205]:
+Variance: 6667.875651000006
+Standard deviation: 81.65706124396105
+Max: 820.0
+Min: 400.4
+Average: 613.237
+
+Generation [206]:
+Variance: 5607.179936760006
+Standard deviation: 74.88110533879696
+Max: 818.8000000000002
+Min: 468.7999999999999
+Average: 613.8482
+
+Generation [207]:
+Variance: 5794.230744440006
+Standard deviation: 76.11984461649935
+Max: 812.7000000000002
+Min: 455.59999999999997
+Average: 610.6334
+
+Generation [208]:
+Variance: 6373.634354240006
+Standard deviation: 79.83504464982785
+Max: 813.2000000000002
+Min: 462.3
+Average: 612.4024
+
+Generation [209]:
+Variance: 7350.754509240007
+Standard deviation: 85.73654127173552
+Max: 814.0
+Min: 454.8999999999999
+Average: 611.2726
+
+Generation [210]:
+Variance: 7925.331415160008
+Standard deviation: 89.02433046735037
+Max: 814.0
+Min: 434.29999999999995
+Average: 615.0522000000001
+
+Generation [211]:
+Variance: 8247.145338360007
+Standard deviation: 90.81379486818072
+Max: 814.0
+Min: 358.29999999999995
+Average: 616.7642
+
+Generation [212]:
+Variance: 7720.771451360005
+Standard deviation: 87.86792049070016
+Max: 814.0
+Min: 302.3
+Average: 608.5691999999999
+
+Generation [213]:
+Variance: 7284.657754360005
+Standard deviation: 85.35020652792825
+Max: 812.7000000000002
+Min: 352.6
+Average: 605.3742
+
+Generation [214]:
+Variance: 7664.870687040006
+Standard deviation: 87.5492472100132
+Max: 812.7000000000002
+Min: 303.8
+Average: 608.2463999999999
+
+Generation [215]:
+Variance: 7570.102063160006
+Standard deviation: 87.0063334657886
+Max: 812.7000000000002
+Min: 432.59999999999997
+Average: 612.1178000000001
+
+Generation [216]:
+Variance: 8035.592611360008
+Standard deviation: 89.64146703038728
+Max: 812.7000000000002
+Min: 410.40000000000003
+Average: 609.0692
+
+Generation [217]:
+Variance: 8402.157049440008
+Standard deviation: 91.66328081320245
+Max: 812.7000000000002
+Min: 426.5999999999999
+Average: 605.3084
+
+Generation [218]:
+Variance: 8431.221226040008
+Standard deviation: 91.82168167725969
+Max: 804.9
+Min: 358.9
+Average: 601.0914
+
+Generation [219]:
+Variance: 8261.728175040009
+Standard deviation: 90.89404917286944
+Max: 804.9
+Min: 431.79999999999995
+Average: 602.9864
+
+Generation [220]:
+Variance: 8039.633734560007
+Standard deviation: 89.66400467612411
+Max: 808.1999999999999
+Min: 431.79999999999995
+Average: 604.9612
+
+Generation [221]:
+Variance: 7096.334653240006
+Standard deviation: 84.23974509244438
+Max: 804.9
+Min: 431.79999999999995
+Average: 596.0026
+
+Generation [222]:
+Variance: 8208.051013760009
+Standard deviation: 90.59829476187733
+Max: 804.9
+Min: 437.3
+Average: 604.3431999999999
+
+Generation [223]:
+Variance: 8038.169872440009
+Standard deviation: 89.65584126224019
+Max: 810.5000000000001
+Min: 389.2
+Average: 599.0266
+
+Generation [224]:
+Variance: 8099.498779840008
+Standard deviation: 89.99721540047786
+Max: 804.9
+Min: 397.0
+Average: 598.9504000000001
+
+Generation [225]:
+Variance: 7368.530530040009
+Standard deviation: 85.84014521213258
+Max: 804.9
+Min: 447.9
+Average: 594.0113999999999
+
+Generation [226]:
+Variance: 5925.579144160005
+Standard deviation: 76.97778344535523
+Max: 804.9
+Min: 408.6
+Average: 588.2828
+
+Generation [227]:
+Variance: 5187.060715840006
+Standard deviation: 72.02125183471894
+Max: 800.2000000000002
+Min: 415.4
+Average: 587.0695999999999
+
+Generation [228]:
+Variance: 4854.1008400000055
+Standard deviation: 69.67137748028243
+Max: 800.2000000000002
+Min: 427.9
+Average: 582.1800000000001
+
+Generation [229]:
+Variance: 5023.795923840004
+Standard deviation: 70.87874098656101
+Max: 800.2000000000002
+Min: 444.90000000000003
+Average: 584.0704000000001
+
+Generation [230]:
+Variance: 5694.3591737600045
+Standard deviation: 75.46097782138796
+Max: 775.2
+Min: 413.19999999999993
+Average: 585.3568
+
+Generation [231]:
+Variance: 6066.059066560004
+Standard deviation: 77.88490910670696
+Max: 782.8000000000001
+Min: 437.8
+Average: 589.8312000000001
+
+Generation [232]:
+Variance: 6597.066833440005
+Standard deviation: 81.22232964794844
+Max: 800.6
+Min: 437.99999999999994
+Average: 587.2716000000001
+
+Generation [233]:
+Variance: 6815.677200160006
+Standard deviation: 82.55711477613546
+Max: 800.6
+Min: 412.6
+Average: 585.9771999999999
+
+Generation [234]:
+Variance: 7414.994779000007
+Standard deviation: 86.11036394650766
+Max: 789.1
+Min: 414.5
+Average: 587.221
+
+Generation [235]:
+Variance: 7567.555949560007
+Standard deviation: 86.99170046366497
+Max: 781.2
+Min: 414.5
+Average: 595.5362000000001
+
+Generation [236]:
+Variance: 7901.3827782400085
+Standard deviation: 88.889722568135
+Max: 796.0000000000001
+Min: 387.20000000000005
+Average: 597.5776
+
+Generation [237]:
+Variance: 8393.415291000008
+Standard deviation: 91.61558432384749
+Max: 793.1000000000001
+Min: 387.20000000000005
+Average: 592.583
+
+Generation [238]:
+Variance: 8694.792197240007
+Standard deviation: 93.24586959881927
+Max: 793.1000000000001
+Min: 354.69999999999993
+Average: 599.1674
+
+Generation [239]:
+Variance: 9142.73749900001
+Standard deviation: 95.61766311200044
+Max: 793.1000000000001
+Min: 410.69999999999993
+Average: 605.151
+
+Generation [240]:
+Variance: 9569.431659000009
+Standard deviation: 97.82347192264241
+Max: 794.3000000000001
+Min: 430.0999999999999
+Average: 599.431
+
+Generation [241]:
+Variance: 9118.729985440008
+Standard deviation: 95.4920414769734
+Max: 794.3000000000001
+Min: 459.59999999999997
+Average: 603.0884
+
+Generation [242]:
+Variance: 10012.375580960006
+Standard deviation: 100.0618587722615
+Max: 805.5000000000001
+Min: 399.70000000000005
+Average: 615.5148
+
+Generation [243]:
+Variance: 9109.379190560006
+Standard deviation: 95.44306779730002
+Max: 812.7
+Min: 398.20000000000005
+Average: 610.6788
+
+Generation [244]:
+Variance: 9190.963048640006
+Standard deviation: 95.86951052675718
+Max: 812.7
+Min: 355.9
+Average: 620.1056000000001
+
+Generation [245]:
+Variance: 8791.113725240008
+Standard deviation: 93.76093922972406
+Max: 807.9000000000001
+Min: 355.9
+Average: 612.2074
+
+Generation [246]:
+Variance: 7426.798015160006
+Standard deviation: 86.17887220868005
+Max: 801.9000000000001
+Min: 398.20000000000005
+Average: 612.0022
+
+Generation [247]:
+Variance: 8004.841260000007
+Standard deviation: 89.46977847295705
+Max: 797.3000000000002
+Min: 461.49999999999994
+Average: 613.87
+
+Generation [248]:
+Variance: 8175.444891360007
+Standard deviation: 90.4181668214967
+Max: 808.4000000000001
+Min: 395.40000000000003
+Average: 617.9308000000001
+
+Generation [249]:
+Variance: 7461.805652160006
+Standard deviation: 86.38174374345546
+Max: 808.6000000000001
+Min: 413.8
+Average: 618.6472000000001
+
+Generation [250]:
+Variance: 7957.895462240007
+Standard deviation: 89.20703706681445
+Max: 839.6000000000001
+Min: 450.0
+Average: 618.7076000000001
+
+Generation [251]:
+Variance: 8894.901354240008
+Standard deviation: 94.31278468076323
+Max: 839.6000000000001
+Min: 415.79999999999995
+Average: 621.1976000000001
+
+Generation [252]:
+Variance: 9361.081579000007
+Standard deviation: 96.75268254162262
+Max: 839.6000000000001
+Min: 395.9
+Average: 623.529
+
+Generation [253]:
+Variance: 8994.919063160007
+Standard deviation: 94.84154713605217
+Max: 809.8000000000002
+Min: 389.09999999999997
+Average: 622.8821999999999
+
+Generation [254]:
+Variance: 8690.781091640007
+Standard deviation: 93.22435889637433
+Max: 809.8000000000002
+Min: 422.4
+Average: 616.9594000000002
+
+Generation [255]:
+Variance: 7882.238179640006
+Standard deviation: 88.78196990177682
+Max: 809.8000000000002
+Min: 431.0
+Average: 613.5006000000001
+
+Generation [256]:
+Variance: 8270.183632440006
+Standard deviation: 90.94054998975983
+Max: 809.8000000000002
+Min: 431.19999999999993
+Average: 628.2234000000001
+
+Generation [257]:
+Variance: 8471.484619960007
+Standard deviation: 92.0406682937494
+Max: 809.8000000000002
+Min: 450.50000000000006
+Average: 628.9498000000001
+
+Generation [258]:
+Variance: 7437.726938360006
+Standard deviation: 86.24225726614539
+Max: 812.7
+Min: 450.50000000000006
+Average: 623.8141999999999
+
+Generation [259]:
+Variance: 8150.032596000006
+Standard deviation: 90.27753095870537
+Max: 812.7
+Min: 444.09999999999997
+Average: 622.042
+
+Generation [260]:
+Variance: 8032.819712440008
+Standard deviation: 89.6259990875416
+Max: 812.7
+Min: 360.40000000000003
+Average: 624.5766
+
+Generation [261]:
+Variance: 8243.704011960006
+Standard deviation: 90.794845734546
+Max: 812.7
+Min: 360.40000000000003
+Average: 623.5298
+
+Generation [262]:
+Variance: 8978.525469240005
+Standard deviation: 94.75508149561165
+Max: 812.7
+Min: 360.40000000000003
+Average: 629.2226
+
+Generation [263]:
+Variance: 10032.364716000006
+Standard deviation: 100.16169285709984
+Max: 812.7
+Min: 361.00000000000006
+Average: 636.422
+
+Generation [264]:
+Variance: 9822.184189560006
+Standard deviation: 99.10693310540896
+Max: 812.7
+Min: 307.3
+Average: 634.7862000000001
+
+Generation [265]:
+Variance: 9295.677767360006
+Standard deviation: 96.41409527325352
+Max: 812.7
+Min: 307.3
+Average: 629.0791999999999
+
+Generation [266]:
+Variance: 9299.229035360007
+Standard deviation: 96.43251026163328
+Max: 833.2
+Min: 301.3
+Average: 631.1908000000001
+
+Generation [267]:
+Variance: 9657.277743360006
+Standard deviation: 98.27144927882159
+Max: 833.2
+Min: 339.1
+Average: 626.7608
+
+Generation [268]:
+Variance: 8728.558028160005
+Standard deviation: 93.42675220813365
+Max: 812.9000000000001
+Min: 339.1
+Average: 621.5072000000001
+
+Generation [269]:
+Variance: 8271.865565760005
+Standard deviation: 90.9497969528245
+Max: 822.8000000000001
+Min: 339.1
+Average: 619.4368000000001
+
+Generation [270]:
+Variance: 8270.128994560006
+Standard deviation: 90.94024958487856
+Max: 812.9000000000001
+Min: 325.0
+Average: 614.3112
+
+Generation [271]:
+Variance: 7955.889891000007
+Standard deviation: 89.19579525403654
+Max: 819.3000000000001
+Min: 443.09999999999997
+Average: 616.157
+
+Generation [272]:
+Variance: 8249.332531000005
+Standard deviation: 90.82583625268751
+Max: 812.8000000000001
+Min: 366.09999999999997
+Average: 624.527
+
+Generation [273]:
+Variance: 7853.494744160006
+Standard deviation: 88.61994552108462
+Max: 831.2
+Min: 373.9
+Average: 617.1172
+
+Generation [274]:
+Variance: 7014.155173560006
+Standard deviation: 83.75055327315758
+Max: 811.3000000000002
+Min: 373.9
+Average: 609.0238
+
+Generation [275]:
+Variance: 7575.539104000006
+Standard deviation: 87.03757294410275
+Max: 833.4
+Min: 349.9
+Average: 616.796
+
+Generation [276]:
+Variance: 6704.961248760005
+Standard deviation: 81.88382776079783
+Max: 811.3000000000002
+Min: 349.9
+Average: 613.9681999999999
+
+Generation [277]:
+Variance: 7182.672892960007
+Standard deviation: 84.75065128339726
+Max: 811.3000000000002
+Min: 373.9
+Average: 612.5948000000001
+
+Generation [278]:
+Variance: 6824.370763360005
+Standard deviation: 82.60974980811893
+Max: 803.5000000000001
+Min: 400.29999999999995
+Average: 607.2108000000001
+
+Generation [279]:
+Variance: 6974.755070560004
+Standard deviation: 83.5149990753757
+Max: 818.7000000000002
+Min: 396.8
+Average: 618.4212
+
+Generation [280]:
+Variance: 8071.4602023600055
+Standard deviation: 89.84130565814371
+Max: 834.3000000000001
+Min: 415.59999999999997
+Average: 619.6458
+
+Generation [281]:
+Variance: 8326.053126840006
+Standard deviation: 91.2472088715047
+Max: 834.3000000000001
+Min: 409.70000000000005
+Average: 613.9146
+
+Generation [282]:
+Variance: 7867.835494840006
+Standard deviation: 88.70082014750487
+Max: 803.5000000000001
+Min: 436.59999999999997
+Average: 610.8246000000001
+
+Generation [283]:
+Variance: 7795.489205560006
+Standard deviation: 88.29206762535355
+Max: 821.9000000000001
+Min: 390.4
+Average: 611.5538
+
+Generation [284]:
+Variance: 7096.072259000005
+Standard deviation: 84.23818765263178
+Max: 821.5
+Min: 425.79999999999995
+Average: 601.1710000000002
+
+Generation [285]:
+Variance: 7427.9793364400075
+Standard deviation: 86.18572582765668
+Max: 834.8000000000001
+Min: 457.2
+Average: 599.7434000000001
+
+Generation [286]:
+Variance: 8134.0562070400065
+Standard deviation: 90.18900269456364
+Max: 834.8000000000001
+Min: 384.3
+Average: 599.9535999999999
+
+Generation [287]:
+Variance: 7504.012654840005
+Standard deviation: 86.62570435407729
+Max: 834.8000000000001
+Min: 381.5
+Average: 608.5246000000001
+
+Generation [288]:
+Variance: 6894.693831840004
+Standard deviation: 83.03429310736621
+Max: 834.8000000000001
+Min: 432.4
+Average: 609.4396
+
+Generation [289]:
+Variance: 6542.618919160005
+Standard deviation: 80.88645695763911
+Max: 829.3000000000001
+Min: 435.50000000000006
+Average: 607.6578000000001
+
+Generation [290]:
+Variance: 6664.573802360005
+Standard deviation: 81.63684096264384
+Max: 809.3000000000001
+Min: 440.0
+Average: 606.4042000000001
+
+Generation [291]:
+Variance: 6829.067696000005
+Standard deviation: 82.63817335832154
+Max: 809.3000000000001
+Min: 449.59999999999997
+Average: 611.708
+
+Generation [292]:
+Variance: 6543.141011000004
+Standard deviation: 80.88968420633131
+Max: 827.8
+Min: 423.6
+Average: 613.123
+
+Generation [293]:
+Variance: 6577.113823040004
+Standard deviation: 81.0994070449347
+Max: 827.8
+Min: 464.8
+Average: 621.4264000000001
+
+Generation [294]:
+Variance: 6045.869084000004
+Standard deviation: 77.75518686235667
+Max: 827.8
+Min: 420.1
+Average: 616.8660000000001
+
+Generation [295]:
+Variance: 5760.582303160002
+Standard deviation: 75.89850000599486
+Max: 827.8
+Min: 353.99999999999994
+Average: 617.2178
+
+Generation [296]:
+Variance: 6768.267863160004
+Standard deviation: 82.26948318276956
+Max: 828.6
+Min: 327.5
+Average: 620.1678
+
+Generation [297]:
+Variance: 7163.714294240003
+Standard deviation: 84.63872809913913
+Max: 851.7
+Min: 328.09999999999997
+Average: 622.4524000000001
+
+Generation [298]:
+Variance: 7663.2669174400025
+Standard deviation: 87.54008748819025
+Max: 851.7
+Min: 453.8999999999999
+Average: 623.4984
+
+Generation [299]:
+Variance: 7960.867600000002
+Standard deviation: 89.22369416248131
+Max: 851.7
+Min: 475.9
+Average: 629.52
+
+Generation [300]:
+Variance: 7603.462851000003
+Standard deviation: 87.19783742157831
+Max: 851.7
+Min: 463.9
+Average: 625.497
+
+Generation [301]:
+Variance: 7412.960468160003
+Standard deviation: 86.09855090627254
+Max: 851.7
+Min: 419.2
+Average: 621.8928000000001
+
+Generation [302]:
+Variance: 7814.274357240003
+Standard deviation: 88.39838435876531
+Max: 851.7
+Min: 417.69999999999993
+Average: 628.9326000000001
+
+Generation [303]:
+Variance: 7009.899043040003
+Standard deviation: 83.7251398508238
+Max: 851.7
+Min: 422.9
+Average: 630.0236000000001
+
+Generation [304]:
+Variance: 6891.125947040002
+Standard deviation: 83.0128059219781
+Max: 851.7
+Min: 422.9
+Average: 624.9964000000001
+
+Generation [305]:
+Variance: 6994.392786040003
+Standard deviation: 83.63248642746431
+Max: 853.3
+Min: 412.19999999999993
+Average: 626.6913999999999
+
+Generation [306]:
+Variance: 6595.066999360002
+Standard deviation: 81.21001785100162
+Max: 853.3
+Min: 474.49999999999994
+Average: 616.6008
+
+Generation [307]:
+Variance: 8163.509780000001
+Standard deviation: 90.35214319538856
+Max: 853.3
+Min: 459.2999999999999
+Average: 619.35
+
+Generation [308]:
+Variance: 8598.444857440003
+Standard deviation: 92.72779980911875
+Max: 853.3
+Min: 423.8
+Average: 622.5484
+
+Generation [309]:
+Variance: 8728.483480760004
+Standard deviation: 93.42635324553775
+Max: 856.6
+Min: 414.79999999999995
+Average: 623.5881999999999
+
+Generation [310]:
+Variance: 8862.032619000003
+Standard deviation: 94.13836953654977
+Max: 856.6
+Min: 414.79999999999995
+Average: 627.091
+
+Generation [311]:
+Variance: 8543.549506240002
+Standard deviation: 92.43132318775926
+Max: 856.6
+Min: 414.79999999999995
+Average: 629.9623999999999
+
+Generation [312]:
+Variance: 8917.281779000003
+Standard deviation: 94.43136014587529
+Max: 859.1999999999999
+Min: 423.7
+Average: 621.921
+
+Generation [313]:
+Variance: 8713.496846560005
+Standard deviation: 93.34611318399928
+Max: 859.1999999999999
+Min: 423.7
+Average: 620.4188
+
+Generation [314]:
+Variance: 10239.553196000004
+Standard deviation: 101.1906774164498
+Max: 856.6
+Min: 404.49999999999994
+Average: 626.518
+
+Generation [315]:
+Variance: 10733.560740960005
+Standard deviation: 103.60289928838867
+Max: 856.6
+Min: 404.49999999999994
+Average: 631.3148
+
+Generation [316]:
+Variance: 10081.507096000005
+Standard deviation: 100.40670842130024
+Max: 856.6
+Min: 415.7
+Average: 625.148
+
+Generation [317]:
+Variance: 9813.849091000006
+Standard deviation: 99.06487314381422
+Max: 853.7
+Min: 395.09999999999997
+Average: 622.117
+
+Generation [318]:
+Variance: 9800.089194240003
+Standard deviation: 98.9953998640341
+Max: 853.7
+Min: 415.7
+Average: 635.5976
+
+Generation [319]:
+Variance: 9683.229278840005
+Standard deviation: 98.40340074834815
+Max: 846.0
+Min: 415.7
+Average: 643.6546000000001
+
+Generation [320]:
+Variance: 9968.811651000004
+Standard deviation: 99.84393647588222
+Max: 854.6
+Min: 415.7
+Average: 643.587
+
+Generation [321]:
+Variance: 11804.293832760002
+Standard deviation: 108.64756708164248
+Max: 873.0
+Min: 445.8
+Average: 651.7418
+
+Generation [322]:
+Variance: 11337.490381560005
+Standard deviation: 106.47765202877083
+Max: 854.6
+Min: 435.7
+Average: 638.5938000000001
+
+Generation [323]:
+Variance: 10597.586865760006
+Standard deviation: 102.94458152695559
+Max: 857.2
+Min: 410.59999999999997
+Average: 637.5868
+
+Generation [324]:
+Variance: 11276.805572640005
+Standard deviation: 106.1923046771281
+Max: 857.2
+Min: 410.59999999999997
+Average: 632.8356000000001
+
+Generation [325]:
+Variance: 11530.691564160004
+Standard deviation: 107.38105775303205
+Max: 865.8000000000001
+Min: 410.59999999999997
+Average: 640.2328
+
+Generation [326]:
+Variance: 10637.817471040004
+Standard deviation: 103.13979576788003
+Max: 857.2
+Min: 449.8999999999999
+Average: 648.4664000000001
+
+Generation [327]:
+Variance: 9581.207736960003
+Standard deviation: 97.88364386842167
+Max: 853.3
+Min: 428.79999999999995
+Average: 643.8952
+
+Generation [328]:
+Variance: 9376.584155000004
+Standard deviation: 96.83276385087851
+Max: 853.3
+Min: 454.2999999999999
+Average: 648.115
+
+Generation [329]:
+Variance: 9068.048890360003
+Standard deviation: 95.22630356345879
+Max: 853.3
+Min: 454.2999999999999
+Average: 651.9658000000001
+
+Generation [330]:
+Variance: 9348.742944640002
+Standard deviation: 96.68889773205609
+Max: 874.6
+Min: 443.59999999999997
+Average: 661.3256
+
+Generation [331]:
+Variance: 9154.347805560003
+Standard deviation: 95.67835599319213
+Max: 874.6
+Min: 443.59999999999997
+Average: 652.9462000000001
+
+Generation [332]:
+Variance: 7862.221383360003
+Standard deviation: 88.6691681666181
+Max: 858.6
+Min: 463.7
+Average: 658.4608000000001
+
+Generation [333]:
+Variance: 7977.100213760002
+Standard deviation: 89.31461366293873
+Max: 853.1999999999999
+Min: 428.0
+Average: 661.3568
+
+Generation [334]:
+Variance: 8474.920656440003
+Standard deviation: 92.05933226153665
+Max: 853.1999999999999
+Min: 428.0
+Average: 652.5566
+
+Generation [335]:
+Variance: 8640.76052816
+Standard deviation: 92.95569120909167
+Max: 853.1999999999999
+Min: 428.0
+Average: 651.3428
+
+Generation [336]:
+Variance: 8307.416202240001
+Standard deviation: 91.14502840111467
+Max: 851.2
+Min: 453.3999999999999
+Average: 645.3576
+
+Generation [337]:
+Variance: 8482.12701804
+Standard deviation: 92.09846371161682
+Max: 851.2
+Min: 429.9
+Average: 647.6985999999999
+
+Generation [338]:
+Variance: 7693.689276640001
+Standard deviation: 87.71367781959664
+Max: 834.3000000000001
+Min: 453.3999999999999
+Average: 649.6843999999999
+
+Generation [339]:
+Variance: 7273.013247160002
+Standard deviation: 85.2819631994949
+Max: 836.0
+Min: 397.7
+Average: 642.2778000000001
+
+Generation [340]:
+Variance: 6918.67105504
+Standard deviation: 83.17854924822866
+Max: 836.0
+Min: 450.79999999999995
+Average: 633.6863999999999
+
+Generation [341]:
+Variance: 5552.043375160001
+Standard deviation: 74.51203510279397
+Max: 835.0
+Min: 450.79999999999995
+Average: 628.2478000000001
+
+Generation [342]:
+Variance: 6223.819635000002
+Standard deviation: 78.89118857641836
+Max: 824.8
+Min: 436.7
+Average: 628.075
+
+Generation [343]:
+Variance: 5856.133974840003
+Standard deviation: 76.52538124596312
+Max: 823.7
+Min: 417.9
+Average: 619.4754
+
+Generation [344]:
+Variance: 6516.880420000004
+Standard deviation: 80.72719752351126
+Max: 851.9000000000001
+Min: 417.9
+Average: 621.69
+
+Generation [345]:
+Variance: 8399.042787640003
+Standard deviation: 91.64629172879829
+Max: 851.9000000000001
+Min: 338.2
+Average: 627.7894
+
+Generation [346]:
+Variance: 8194.647708160004
+Standard deviation: 90.52429346954332
+Max: 851.9000000000001
+Min: 366.49999999999994
+Average: 625.5928
+
+Generation [347]:
+Variance: 8442.561829240005
+Standard deviation: 91.88341433164096
+Max: 851.9000000000001
+Min: 366.49999999999994
+Average: 634.4774
+
+Generation [348]:
+Variance: 8069.175028960002
+Standard deviation: 89.82858692509863
+Max: 851.9000000000001
+Min: 426.49999999999994
+Average: 632.6652
+
+Generation [349]:
+Variance: 9251.373695160006
+Standard deviation: 96.18406154431204
+Max: 852.8
+Min: 426.49999999999994
+Average: 634.3022000000001
+
+Generation [350]:
+Variance: 7910.697872760003
+Standard deviation: 88.94210404954451
+Max: 852.8
+Min: 403.3999999999999
+Average: 635.1582
+
+Generation [351]:
+Variance: 8543.639969440002
+Standard deviation: 92.43181254005572
+Max: 848.0000000000001
+Min: 398.59999999999997
+Average: 637.1916000000001
+
+Generation [352]:
+Variance: 9343.624784000003
+Standard deviation: 96.66242695070305
+Max: 848.0000000000001
+Min: 398.59999999999997
+Average: 636.584
+
+Generation [353]:
+Variance: 9216.267659000001
+Standard deviation: 96.00139404716997
+Max: 852.5000000000001
+Min: 398.59999999999997
+Average: 633.521
+
+Generation [354]:
+Variance: 9835.488424000003
+Standard deviation: 99.17403099602235
+Max: 848.0000000000001
+Min: 444.59999999999997
+Average: 641.236
+
+Generation [355]:
+Variance: 9109.500018360002
+Standard deviation: 95.44370077883612
+Max: 848.0000000000001
+Min: 433.4
+Average: 641.7858
+
+Generation [356]:
+Variance: 8521.002076
+Standard deviation: 92.30927405196078
+Max: 848.0000000000001
+Min: 444.59999999999997
+Average: 633.218
+
+Generation [357]:
+Variance: 8808.13980076
+Standard deviation: 93.85169045233016
+Max: 848.0000000000001
+Min: 479.8
+Average: 637.6382
+
+Generation [358]:
+Variance: 9367.731244000002
+Standard deviation: 96.78704068210786
+Max: 848.0000000000001
+Min: 416.0
+Average: 647.394
+
+Generation [359]:
+Variance: 8539.698619000003
+Standard deviation: 92.41048976712548
+Max: 848.0000000000001
+Min: 407.2
+Average: 649.831
+
+Generation [360]:
+Variance: 9381.303284000001
+Standard deviation: 96.85712820438154
+Max: 848.0000000000001
+Min: 407.2
+Average: 646.846
+
+Generation [361]:
+Variance: 8974.130045560003
+Standard deviation: 94.7318850522885
+Max: 848.0000000000001
+Min: 440.09999999999997
+Average: 639.3462
+
+Generation [362]:
+Variance: 8446.193708640001
+Standard deviation: 91.9031757266309
+Max: 846.4000000000001
+Min: 449.00000000000006
+Average: 639.2444
+
+Generation [363]:
+Variance: 8775.349065440003
+Standard deviation: 93.67683313092945
+Max: 846.4000000000001
+Min: 362.4
+Average: 635.4116000000001
+
+Generation [364]:
+Variance: 9221.584840000001
+Standard deviation: 96.02908330292443
+Max: 846.4000000000001
+Min: 446.6
+Average: 635.96
+
+Generation [365]:
+Variance: 8771.434155640003
+Standard deviation: 93.65593497285691
+Max: 846.4000000000001
+Min: 440.4
+Average: 630.1294
+
+Generation [366]:
+Variance: 9211.644838840002
+Standard deviation: 95.9773141885102
+Max: 846.4000000000001
+Min: 396.59999999999997
+Average: 636.8954000000001
+
+Generation [367]:
+Variance: 9184.017568440002
+Standard deviation: 95.83328006720839
+Max: 826.1
+Min: 457.8
+Average: 640.8966000000001
+
+Generation [368]:
+Variance: 7482.878643840002
+Standard deviation: 86.50363370309944
+Max: 824.3000000000001
+Min: 485.9
+Average: 638.0704000000002
+
+Generation [369]:
+Variance: 7524.876475000004
+Standard deviation: 86.74604587530203
+Max: 824.3000000000001
+Min: 444.49999999999994
+Average: 638.105
+
+Generation [370]:
+Variance: 6834.273812960003
+Standard deviation: 82.66966682502115
+Max: 824.3000000000001
+Min: 444.49999999999994
+Average: 626.2052
+
+Generation [371]:
+Variance: 6972.002731040002
+Standard deviation: 83.49851933441695
+Max: 824.3000000000001
+Min: 445.70000000000005
+Average: 628.8163999999999
+
+Generation [372]:
+Variance: 7521.519043360002
+Standard deviation: 86.72669164311529
+Max: 823.3000000000002
+Min: 447.69999999999993
+Average: 628.6892
+
+Generation [373]:
+Variance: 8671.677740000003
+Standard deviation: 93.12184351697513
+Max: 824.1
+Min: 379.70000000000005
+Average: 632.33
+
+Generation [374]:
+Variance: 9130.379976440003
+Standard deviation: 95.55302180695283
+Max: 824.1
+Min: 379.70000000000005
+Average: 632.3934
+
+Generation [375]:
+Variance: 10011.289023360001
+Standard deviation: 100.05642919552946
+Max: 824.1
+Min: 361.4
+Average: 633.2608
+
+Generation [376]:
+Variance: 8809.121064160003
+Standard deviation: 93.8569180410267
+Max: 824.1
+Min: 388.70000000000005
+Average: 632.5828
+
+Generation [377]:
+Variance: 9118.691165760003
+Standard deviation: 95.49183821542029
+Max: 824.1
+Min: 388.70000000000005
+Average: 637.1632000000001
+
+Generation [378]:
+Variance: 8414.689699000004
+Standard deviation: 91.73161777162771
+Max: 824.1
+Min: 440.4
+Average: 635.491
+
+Generation [379]:
+Variance: 8080.970056000004
+Standard deviation: 89.8942159207143
+Max: 824.1
+Min: 448.90000000000003
+Average: 628.968
+
+Generation [380]:
+Variance: 8111.630379000005
+Standard deviation: 90.06459003959328
+Max: 824.1
+Min: 443.09999999999997
+Average: 623.819
+
+Generation [381]:
+Variance: 7565.451056440003
+Standard deviation: 86.97960138124343
+Max: 824.1
+Min: 443.09999999999997
+Average: 630.5566000000001
+
+Generation [382]:
+Variance: 7722.098195000002
+Standard deviation: 87.87546981382235
+Max: 824.1
+Min: 363.1
+Average: 625.225
+
+Generation [383]:
+Variance: 7508.941890240005
+Standard deviation: 86.6541510271724
+Max: 805.3000000000001
+Min: 360.5
+Average: 621.1176
+
+Generation [384]:
+Variance: 7990.895614240003
+Standard deviation: 89.39180954785513
+Max: 805.3000000000001
+Min: 409.50000000000006
+Average: 612.7475999999999
+
+Generation [385]:
+Variance: 7601.042265760003
+Standard deviation: 87.18395646998364
+Max: 805.3000000000001
+Min: 399.90000000000003
+Average: 614.9132000000001
+
+Generation [386]:
+Variance: 7255.363333560003
+Standard deviation: 85.17842058620249
+Max: 829.8
+Min: 409.50000000000006
+Average: 619.3262000000001
+
+Generation [387]:
+Variance: 6699.082587640004
+Standard deviation: 81.84792353896343
+Max: 805.3000000000001
+Min: 409.50000000000006
+Average: 613.6894
+
+Generation [388]:
+Variance: 6563.633131000005
+Standard deviation: 81.01625226459198
+Max: 805.3000000000001
+Min: 409.5
+Average: 621.4870000000001
+
+Generation [389]:
+Variance: 6225.4617505600045
+Standard deviation: 78.90159536131068
+Max: 805.3000000000001
+Min: 409.5
+Average: 628.2788
+
+Generation [390]:
+Variance: 7010.032538560003
+Standard deviation: 83.72593707185368
+Max: 805.3000000000001
+Min: 467.79999999999995
+Average: 624.5488
+
+Generation [391]:
+Variance: 6311.018176000003
+Standard deviation: 79.44191699600408
+Max: 808.8
+Min: 467.79999999999995
+Average: 622.432
+
+Generation [392]:
+Variance: 5981.028456640003
+Standard deviation: 77.3371091820738
+Max: 805.3000000000001
+Min: 446.2
+Average: 618.8344000000001
+
+Generation [393]:
+Variance: 5592.248856000003
+Standard deviation: 74.78134029288324
+Max: 801.3
+Min: 461.59999999999997
+Average: 613.168
+
+Generation [394]:
+Variance: 5719.096195360003
+Standard deviation: 75.62470624974355
+Max: 818.7000000000002
+Min: 464.6
+Average: 608.4908
+
+Generation [395]:
+Variance: 5683.6953910400025
+Standard deviation: 75.39028711339414
+Max: 818.7000000000002
+Min: 464.6
+Average: 611.4336000000001
+
+Generation [396]:
+Variance: 5622.042706360003
+Standard deviation: 74.98028211710064
+Max: 818.7000000000002
+Min: 448.8
+Average: 614.9558000000001
+
+Generation [397]:
+Variance: 5631.882636960004
+Standard deviation: 75.04587021921995
+Max: 809.6999999999999
+Min: 411.9
+Average: 619.5548
+
+Generation [398]:
+Variance: 5799.707139000002
+Standard deviation: 76.1558083077056
+Max: 809.6999999999999
+Min: 419.09999999999997
+Average: 613.629
+
+Generation [399]:
+Variance: 6881.014058040004
+Standard deviation: 82.9518779657218
+Max: 809.6999999999999
+Min: 396.8
+Average: 603.0014
+
+Generation [400]:
+Variance: 7183.7553998400035
+Standard deviation: 84.75703746497989
+Max: 828.9000000000001
+Min: 390.9
+Average: 603.9004000000001
+
+Generation [401]:
+Variance: 7379.373140000004
+Standard deviation: 85.9032778187189
+Max: 828.9000000000001
+Min: 340.8
+Average: 603.93
+
+Generation [402]:
+Variance: 7002.320430240004
+Standard deviation: 83.67986872743052
+Max: 828.9000000000001
+Min: 403.8
+Average: 608.4676
+
+Generation [403]:
+Variance: 6411.157182560001
+Standard deviation: 80.06970202617218
+Max: 834.9000000000001
+Min: 439.4
+Average: 607.2588000000001
+
+Generation [404]:
+Variance: 6274.089315040002
+Standard deviation: 79.20914918770433
+Max: 828.9000000000001
+Min: 439.4
+Average: 600.2636
+
+Generation [405]:
+Variance: 7028.414805440001
+Standard deviation: 83.83564161763182
+Max: 828.9000000000001
+Min: 450.5
+Average: 602.6384
+
+Generation [406]:
+Variance: 7557.509220160003
+Standard deviation: 86.93393595230808
+Max: 828.9000000000001
+Min: 425.4
+Average: 607.1728
+
+Generation [407]:
+Variance: 7591.259742840003
+Standard deviation: 87.12783563729793
+Max: 815.5
+Min: 389.09999999999997
+Average: 603.8154000000001
+
+Generation [408]:
+Variance: 8399.257752960002
+Standard deviation: 91.6474645200837
+Max: 815.5
+Min: 422.40000000000003
+Average: 600.8448000000001
+
+Generation [409]:
+Variance: 8057.5864663600005
+Standard deviation: 89.76405999262734
+Max: 812.2
+Min: 377.20000000000005
+Average: 596.8058000000001
+
+Generation [410]:
+Variance: 8288.463691
+Standard deviation: 91.04100005492032
+Max: 815.9
+Min: 396.1
+Average: 596.643
+
+Generation [411]:
+Variance: 9243.206030560003
+Standard deviation: 96.14159365519173
+Max: 815.9
+Min: 325.50000000000006
+Average: 600.0788
+
+Generation [412]:
+Variance: 9719.133424640006
+Standard deviation: 98.58566541155973
+Max: 792.9000000000001
+Min: 385.99999999999994
+Average: 599.0743999999999
+
+Generation [413]:
+Variance: 9530.606135360007
+Standard deviation: 97.62482335635751
+Max: 826.5
+Min: 409.0
+Average: 604.0408
+
+Generation [414]:
+Variance: 9874.740773440004
+Standard deviation: 99.37173025282394
+Max: 817.3000000000002
+Min: 410.40000000000003
+Average: 604.4216
+
+Generation [415]:
+Variance: 11161.438002360004
+Standard deviation: 105.64770703787188
+Max: 817.3000000000002
+Min: 416.40000000000003
+Average: 603.5958
+
+Generation [416]:
+Variance: 10999.415736000006
+Standard deviation: 104.87809941069683
+Max: 821.9000000000001
+Min: 428.6
+Average: 609.108
+
+Generation [417]:
+Variance: 11468.996642360005
+Standard deviation: 107.0934014884204
+Max: 826.1000000000003
+Min: 413.9
+Average: 612.1042000000001
+
+Generation [418]:
+Variance: 11265.459696160007
+Standard deviation: 106.13886986472019
+Max: 826.1000000000003
+Min: 398.4
+Average: 623.5628
+
+Generation [419]:
+Variance: 11151.379663360005
+Standard deviation: 105.60009310298929
+Max: 826.1000000000003
+Min: 398.4
+Average: 628.6392
+
+Generation [420]:
+Variance: 10150.932209760005
+Standard deviation: 100.75183477118422
+Max: 831.1999999999999
+Min: 398.4
+Average: 630.1532000000001
+
+Generation [421]:
+Variance: 9595.463915960006
+Standard deviation: 97.95643886932602
+Max: 831.1999999999999
+Min: 436.99999999999994
+Average: 621.2398000000001
+
+Generation [422]:
+Variance: 10024.876650040005
+Standard deviation: 100.1243059903039
+Max: 831.1999999999999
+Min: 390.79999999999995
+Average: 623.3614
+
+Generation [423]:
+Variance: 10115.795528640007
+Standard deviation: 100.5773112020798
+Max: 831.1999999999999
+Min: 377.7
+Average: 627.0056
+
+Generation [424]:
+Variance: 9674.371859000006
+Standard deviation: 98.35838479255344
+Max: 826.1000000000003
+Min: 393.2
+Average: 617.901
+
+Generation [425]:
+Variance: 8887.630576160007
+Standard deviation: 94.27423071104853
+Max: 826.1000000000003
+Min: 398.0
+Average: 619.1628000000001
+
+Generation [426]:
+Variance: 9250.591477560007
+Standard deviation: 96.17999520461626
+Max: 826.1000000000003
+Min: 398.0
+Average: 620.6662
+
+Generation [427]:
+Variance: 10206.321208760008
+Standard deviation: 101.02633918320512
+Max: 826.6999999999999
+Min: 398.0
+Average: 624.8181999999999
+
+Generation [428]:
+Variance: 9872.188664000008
+Standard deviation: 99.35888819828857
+Max: 831.9000000000001
+Min: 414.8999999999999
+Average: 626.384
+
+Generation [429]:
+Variance: 9237.627258040005
+Standard deviation: 96.11257596194166
+Max: 831.9000000000001
+Min: 412.9
+Average: 619.2486000000001
+
+Generation [430]:
+Variance: 9560.594733560003
+Standard deviation: 97.77829377505012
+Max: 825.9000000000001
+Min: 364.9
+Average: 627.9762
+
+Generation [431]:
+Variance: 10465.697325440004
+Standard deviation: 102.30199081855643
+Max: 833.4000000000001
+Min: 445.09999999999997
+Average: 641.4384
+
+Generation [432]:
+Variance: 10714.773844000005
+Standard deviation: 103.51219176502836
+Max: 831.9000000000001
+Min: 393.8
+Average: 646.2140000000002
+
+Generation [433]:
+Variance: 9989.587773440004
+Standard deviation: 99.94792530833246
+Max: 858.8
+Min: 405.69999999999993
+Average: 643.7783999999999
+
+Generation [434]:
+Variance: 10727.440714040004
+Standard deviation: 103.57335909412228
+Max: 858.8
+Min: 406.69999999999993
+Average: 649.3686
+
+Generation [435]:
+Variance: 10819.195759160002
+Standard deviation: 104.01536309199714
+Max: 858.8
+Min: 406.69999999999993
+Average: 647.8421999999999
+
+Generation [436]:
+Variance: 10943.760400160001
+Standard deviation: 104.61242947260139
+Max: 858.8
+Min: 405.69999999999993
+Average: 649.6772
+
+Generation [437]:
+Variance: 10659.735616440003
+Standard deviation: 103.2459956436084
+Max: 858.8
+Min: 406.69999999999993
+Average: 654.2434000000001
+
+Generation [438]:
+Variance: 9447.918788160001
+Standard deviation: 97.20040528804394
+Max: 834.1
+Min: 443.7
+Average: 638.0928
+
+Generation [439]:
+Variance: 9612.808366840001
+Standard deviation: 98.04493034746876
+Max: 834.1
+Min: 443.7
+Average: 640.0646
+
+Generation [440]:
+Variance: 10034.004731000003
+Standard deviation: 100.16987936001522
+Max: 841.3000000000001
+Min: 434.7
+Average: 637.357
+
+Generation [441]:
+Variance: 9988.154847840002
+Standard deviation: 99.94075669035132
+Max: 841.3000000000001
+Min: 415.5
+Average: 641.1404000000001
+
+Generation [442]:
+Variance: 10701.105902560003
+Standard deviation: 103.4461497715599
+Max: 841.3000000000001
+Min: 440.4
+Average: 647.2588000000001
+
+Generation [443]:
+Variance: 10538.67847216
+Standard deviation: 102.65806579202629
+Max: 841.3000000000001
+Min: 440.4
+Average: 643.2028
+
+Generation [444]:
+Variance: 10653.433955359998
+Standard deviation: 103.21547342990777
+Max: 841.3000000000001
+Min: 457.5
+Average: 644.5092000000001
+
+Generation [445]:
+Variance: 10220.741624000002
+Standard deviation: 101.09768357385842
+Max: 834.1
+Min: 450.0
+Average: 650.6440000000001
+
+Generation [446]:
+Variance: 10917.029739
+Standard deviation: 104.48459091655573
+Max: 834.1
+Min: 456.1
+Average: 645.9390000000001
+
+Generation [447]:
+Variance: 11708.88147436
+Standard deviation: 108.2075851054814
+Max: 836.7
+Min: 407.19999999999993
+Average: 643.3758
+
+Generation [448]:
+Variance: 11377.819096000001
+Standard deviation: 106.6668603456575
+Max: 839.1999999999999
+Min: 456.1
+Average: 643.168
+
+Generation [449]:
+Variance: 11383.77074
+Standard deviation: 106.69475497886482
+Max: 836.7
+Min: 456.7
+Average: 639.29
+
+Generation [450]:
+Variance: 11926.676204
+Standard deviation: 109.20932288042079
+Max: 842.9000000000001
+Min: 423.40000000000003
+Average: 644.4860000000001
+
+Generation [451]:
+Variance: 10817.996076
+Standard deviation: 104.00959607651593
+Max: 842.9000000000001
+Min: 447.5
+Average: 631.902
+
+Generation [452]:
+Variance: 11459.947371000002
+Standard deviation: 107.05114371644986
+Max: 853.2000000000002
+Min: 407.8
+Average: 633.577
+
+Generation [453]:
+Variance: 10496.09490736
+Standard deviation: 102.45045098661109
+Max: 853.2000000000002
+Min: 457.99999999999994
+Average: 626.1708000000001
+
+Generation [454]:
+Variance: 10221.461050999998
+Standard deviation: 101.10124158980442
+Max: 853.2000000000002
+Min: 447.1000000000001
+Average: 623.2930000000001
+
+Generation [455]:
+Variance: 10789.918318560001
+Standard deviation: 103.87453161656134
+Max: 853.2000000000002
+Min: 391.1
+Average: 619.8988
+
+Generation [456]:
+Variance: 11163.546475840003
+Standard deviation: 105.65768536098074
+Max: 855.0
+Min: 394.5
+Average: 624.8304000000002
+
+Generation [457]:
+Variance: 10399.364056000002
+Standard deviation: 101.97727225220335
+Max: 870.3
+Min: 381.1
+Average: 626.472
+
+Generation [458]:
+Variance: 10947.27782544
+Standard deviation: 104.6292398206161
+Max: 870.3
+Min: 381.1
+Average: 634.8884000000002
+
+Generation [459]:
+Variance: 12270.31909676
+Standard deviation: 110.7714723959197
+Max: 870.3
+Min: 440.2
+Average: 636.2982000000001
+
+Generation [460]:
+Variance: 12332.704771000002
+Standard deviation: 111.05271167783343
+Max: 870.3
+Min: 440.2
+Average: 634.6930000000001
+
+Generation [461]:
+Variance: 12300.319947360002
+Standard deviation: 110.90680748881017
+Max: 870.3
+Min: 430.09999999999997
+Average: 633.2292000000001
+
+Generation [462]:
+Variance: 11844.704791360002
+Standard deviation: 108.83338086892276
+Max: 870.3
+Min: 460.4
+Average: 646.3808
+
+Generation [463]:
+Variance: 11692.456454840001
+Standard deviation: 108.13166259167572
+Max: 844.8000000000001
+Min: 442.59999999999997
+Average: 640.6246000000001
+
+Generation [464]:
+Variance: 12242.388901240003
+Standard deviation: 110.6453293241066
+Max: 848.3
+Min: 382.8
+Average: 650.9874
+
+Generation [465]:
+Variance: 10582.914948960002
+Standard deviation: 102.87329560658588
+Max: 848.3
+Min: 398.6
+Average: 646.0348
+
+Generation [466]:
+Variance: 9749.060989240003
+Standard deviation: 98.7373333103543
+Max: 848.3
+Min: 453.6
+Average: 647.5226
+
+Generation [467]:
+Variance: 9495.89446144
+Standard deviation: 97.44688020372946
+Max: 848.3
+Min: 453.6
+Average: 651.6184000000002
+
+Generation [468]:
+Variance: 9708.61137004
+Standard deviation: 98.53228592720257
+Max: 843.8
+Min: 406.40000000000003
+Average: 654.5386000000001
+
+Generation [469]:
+Variance: 10106.994362360001
+Standard deviation: 100.53354844209967
+Max: 846.8
+Min: 472.0
+Average: 663.9042000000001
+
+Generation [470]:
+Variance: 9532.910018040002
+Standard deviation: 97.63662231990618
+Max: 846.8000000000001
+Min: 476.69999999999993
+Average: 671.3486
+
+Generation [471]:
+Variance: 9523.236296159997
+Standard deviation: 97.58707033290833
+Max: 846.8000000000001
+Min: 468.9
+Average: 671.0628
+
+Generation [472]:
+Variance: 8941.489467360001
+Standard deviation: 94.55944938164562
+Max: 845.8
+Min: 421.7
+Average: 659.2708
+
+Generation [473]:
+Variance: 8670.87248716
+Standard deviation: 93.11751976486488
+Max: 845.8
+Min: 391.09999999999997
+Average: 644.9778
+
+Generation [474]:
+Variance: 8395.284755360002
+Standard deviation: 91.62578651973473
+Max: 845.8
+Min: 391.09999999999997
+Average: 642.9092
+
+Generation [475]:
+Variance: 7813.85263296
+Standard deviation: 88.39599896465903
+Max: 845.8
+Min: 426.3999999999999
+Average: 649.1448
+
+Generation [476]:
+Variance: 7915.0616791600005
+Standard deviation: 88.96663239192546
+Max: 845.8
+Min: 429.0
+Average: 647.5578
+
+Generation [477]:
+Variance: 6946.494659000004
+Standard deviation: 83.34563371287067
+Max: 856.0
+Min: 429.0
+Average: 641.981
+
+Generation [478]:
+Variance: 6625.729120640002
+Standard deviation: 81.39858180975884
+Max: 845.8
+Min: 443.69999999999993
+Average: 638.4543999999999
+
+Generation [479]:
+Variance: 6447.424344000003
+Standard deviation: 80.29585508605038
+Max: 845.8
+Min: 443.69999999999993
+Average: 642.736
+
+Generation [480]:
+Variance: 5584.230435040003
+Standard deviation: 74.72770861628237
+Max: 845.8
+Min: 492.99999999999994
+Average: 646.0636000000001
+
+Generation [481]:
+Variance: 5739.730931000001
+Standard deviation: 75.76101194545913
+Max: 845.8
+Min: 474.09999999999997
+Average: 645.927
+
+Generation [482]:
+Variance: 6122.640632440001
+Standard deviation: 78.24730431420626
+Max: 845.8
+Min: 419.2000000000001
+Average: 641.9266000000001
+
+Generation [483]:
+Variance: 6644.436404000003
+Standard deviation: 81.51341241783467
+Max: 845.8
+Min: 409.6000000000001
+Average: 638.206
+
+Generation [484]:
+Variance: 7129.053916640003
+Standard deviation: 84.43372499564379
+Max: 845.8
+Min: 404.49999999999994
+Average: 633.8844
+
+Generation [485]:
+Variance: 6179.717325440002
+Standard deviation: 78.61117812016305
+Max: 845.8
+Min: 440.09999999999997
+Average: 634.0383999999999
+
+Generation [486]:
+Variance: 6399.681336640003
+Standard deviation: 79.99800832920782
+Max: 838.1999999999999
+Min: 482.4
+Average: 628.9344
+
+Generation [487]:
+Variance: 7193.824451000003
+Standard deviation: 84.81641616456099
+Max: 838.1999999999999
+Min: 464.0
+Average: 624.837
+
+Generation [488]:
+Variance: 7089.963466040004
+Standard deviation: 84.20192079780605
+Max: 838.1999999999999
+Min: 414.0999999999999
+Average: 624.0914
+
+Generation [489]:
+Variance: 6866.152859960004
+Standard deviation: 82.86225232251417
+Max: 822.6
+Min: 321.09999999999997
+Average: 623.5002
+
+Generation [490]:
+Variance: 5463.3910049600045
+Standard deviation: 73.9147549881619
+Max: 822.6
+Min: 469.79999999999995
+Average: 625.4251999999999
+
+Generation [491]:
+Variance: 5862.322433760003
+Standard deviation: 76.56580459813638
+Max: 822.6
+Min: 427.09999999999997
+Average: 624.5931999999999
+
+Generation [492]:
+Variance: 6396.9702769600035
+Standard deviation: 79.9810619894485
+Max: 824.6000000000001
+Min: 431.5999999999999
+Average: 630.8452000000001
+
+Generation [493]:
+Variance: 7986.131848640005
+Standard deviation: 89.36516015002718
+Max: 822.6
+Min: 438.2
+Average: 629.1943999999999
+
+Generation [494]:
+Variance: 7315.724405440004
+Standard deviation: 85.5320080755737
+Max: 822.6
+Min: 421.79999999999995
+Average: 622.7384000000001
+
+Generation [495]:
+Variance: 8473.802102240006
+Standard deviation: 92.05325688013437
+Max: 822.6
+Min: 421.79999999999995
+Average: 624.9076000000001
+
+Generation [496]:
+Variance: 8346.257127040006
+Standard deviation: 91.35785202728886
+Max: 822.6
+Min: 450.3999999999999
+Average: 635.1464
+
+Generation [497]:
+Variance: 8447.343987960006
+Standard deviation: 91.90943361788281
+Max: 823.1
+Min: 433.69999999999993
+Average: 639.7801999999999
+
+Generation [498]:
+Variance: 8381.316904000005
+Standard deviation: 91.54953251655633
+Max: 822.6
+Min: 461.7
+Average: 640.424
+
+Generation [499]:
+Variance: 7460.386500000005
+Standard deviation: 86.37352893103306
+Max: 822.6
+Min: 416.6
+Average: 637.01
+
+Generation [500]:
+Variance: 8150.528962560004
+Standard deviation: 90.28028003146648
+Max: 849.8000000000001
+Min: 416.6
+Average: 637.5912
+
+Generation [501]:
+Variance: 7371.397011000004
+Standard deviation: 85.85684021089993
+Max: 849.8000000000001
+Min: 416.6
+Average: 636.163
+
+Generation [502]:
+Variance: 6248.519264760002
+Standard deviation: 79.04757595752069
+Max: 849.8000000000001
+Min: 466.4
+Average: 628.8782
+
+Generation [503]:
+Variance: 6799.040575040002
+Standard deviation: 82.45629493883412
+Max: 832.2
+Min: 453.8
+Average: 626.3136
+
+Generation [504]:
+Variance: 6931.582144000003
+Standard deviation: 83.25612376275996
+Max: 832.2
+Min: 425.0
+Average: 625.584
+
+Generation [505]:
+Variance: 7691.8885175600035
+Standard deviation: 87.70341223441653
+Max: 811.0
+Min: 399.69999999999993
+Average: 617.8661999999999
+
+Generation [506]:
+Variance: 8037.978797440003
+Standard deviation: 89.6547756532802
+Max: 825.4000000000001
+Min: 399.69999999999993
+Average: 617.6983999999999
+
+Generation [507]:
+Variance: 8971.948528440002
+Standard deviation: 94.72037018741007
+Max: 825.4000000000001
+Min: 404.49999999999994
+Average: 624.8965999999999
+
+Generation [508]:
+Variance: 8283.131938360002
+Standard deviation: 91.0117131931929
+Max: 825.4000000000001
+Min: 404.49999999999994
+Average: 622.5142000000001
+
+Generation [509]:
+Variance: 8478.37165196
+Standard deviation: 92.07807367641875
+Max: 834.8
+Min: 404.49999999999994
+Average: 620.9702000000001
+
+Generation [510]:
+Variance: 8932.124448640005
+Standard deviation: 94.50991719729737
+Max: 837.6999999999999
+Min: 401.29999999999995
+Average: 624.8056
+
+Generation [511]:
+Variance: 8296.052176000001
+Standard deviation: 91.0826667154624
+Max: 834.8
+Min: 401.29999999999995
+Average: 626.792
+
+Generation [512]:
+Variance: 7879.337278840001
+Standard deviation: 88.76563118031663
+Max: 848.6999999999999
+Min: 401.29999999999995
+Average: 631.2546
+
+Generation [513]:
+Variance: 7678.35602864
+Standard deviation: 87.62622911343384
+Max: 848.6999999999999
+Min: 433.8
+Average: 636.4444
+
+Generation [514]:
+Variance: 7887.745819640001
+Standard deviation: 88.812982269711
+Max: 816.4
+Min: 398.0
+Average: 630.5506000000001
+
+Generation [515]:
+Variance: 8600.073724960002
+Standard deviation: 92.73658245244971
+Max: 832.5
+Min: 461.59999999999997
+Average: 625.3252
+
+Generation [516]:
+Variance: 9340.013005240004
+Standard deviation: 96.64374271125888
+Max: 832.5
+Min: 434.8999999999999
+Average: 620.9426
+
+Generation [517]:
+Variance: 8519.214051000003
+Standard deviation: 92.29958857438099
+Max: 843.6
+Min: 407.8
+Average: 626.737
+
+Generation [518]:
+Variance: 8230.496890240003
+Standard deviation: 90.72208601129057
+Max: 843.6
+Min: 433.7
+Average: 624.6176
+
+Generation [519]:
+Variance: 7700.131562040003
+Standard deviation: 87.75039351501509
+Max: 834.8
+Min: 433.7
+Average: 618.2286
+
+Generation [520]:
+Variance: 8295.218819000003
+Standard deviation: 91.07809187175587
+Max: 834.8
+Min: 437.59999999999997
+Average: 618.901
+
+Generation [521]:
+Variance: 7696.670165760005
+Standard deviation: 87.73066833074968
+Max: 827.4
+Min: 383.9000000000001
+Average: 612.6632
+
+Generation [522]:
+Variance: 8217.270178040004
+Standard deviation: 90.6491598308556
+Max: 827.4
+Min: 404.2999999999999
+Average: 617.5514000000001
+
+Generation [523]:
+Variance: 8931.907890040005
+Standard deviation: 94.50877149788799
+Max: 851.3
+Min: 402.49999999999994
+Average: 623.6114
+
+Generation [524]:
+Variance: 9266.144384000003
+Standard deviation: 96.26081437428213
+Max: 851.3
+Min: 410.09999999999997
+Average: 624.884
+
+Generation [525]:
+Variance: 8435.974605560004
+Standard deviation: 91.84756178342462
+Max: 851.3
+Min: 382.7
+Average: 624.0038000000001
+
+Generation [526]:
+Variance: 8191.885492960006
+Standard deviation: 90.50903542166387
+Max: 827.4
+Min: 356.59999999999997
+Average: 627.2948
+
+Generation [527]:
+Variance: 9109.006464160006
+Standard deviation: 95.4411151661589
+Max: 827.4
+Min: 338.19999999999993
+Average: 627.4172000000001
+
+Generation [528]:
+Variance: 9090.192099960004
+Standard deviation: 95.34249891816349
+Max: 827.4
+Min: 455.7999999999999
+Average: 623.5498
+
+Generation [529]:
+Variance: 9924.344628160006
+Standard deviation: 99.62100495457776
+Max: 834.3000000000002
+Min: 404.2
+Average: 611.2928
+
+Generation [530]:
+Variance: 9838.238329440004
+Standard deviation: 99.18789406696769
+Max: 851.3
+Min: 425.3
+Average: 614.7083999999999
+
+Generation [531]:
+Variance: 9143.927904000004
+Standard deviation: 95.62388772686458
+Max: 851.3
+Min: 408.09999999999997
+Average: 607.104
+
+Generation [532]:
+Variance: 9892.708837440006
+Standard deviation: 99.46209749165763
+Max: 851.3
+Min: 450.3999999999999
+Average: 619.9016000000001
+
+Generation [533]:
+Variance: 10222.803903160006
+Standard deviation: 101.10788249765696
+Max: 851.3
+Min: 394.99999999999994
+Average: 620.5822
+
+Generation [534]:
+Variance: 9601.582813240002
+Standard deviation: 97.98766663840915
+Max: 851.3
+Min: 435.69999999999993
+Average: 619.1974
+
+Generation [535]:
+Variance: 9320.486982840004
+Standard deviation: 96.54266923407496
+Max: 851.3
+Min: 435.69999999999993
+Average: 624.8653999999999
+
+Generation [536]:
+Variance: 9637.057798840005
+Standard deviation: 98.16851735072709
+Max: 851.3
+Min: 393.5
+Average: 627.2453999999999
+
+Generation [537]:
+Variance: 9111.388843360002
+Standard deviation: 95.45359523538127
+Max: 851.3
+Min: 441.99999999999994
+Average: 633.5108
+
+Generation [538]:
+Variance: 9896.334899040003
+Standard deviation: 99.4803241804127
+Max: 851.3
+Min: 433.5
+Average: 632.4436
+
+Generation [539]:
+Variance: 9283.980011360001
+Standard deviation: 96.35341203797611
+Max: 831.0
+Min: 394.0999999999999
+Average: 642.0692
+
+Generation [540]:
+Variance: 8821.885519360005
+Standard deviation: 93.92489296964892
+Max: 831.8000000000001
+Min: 394.0999999999999
+Average: 642.7008000000001
+
+Generation [541]:
+Variance: 7989.510744760002
+Standard deviation: 89.38406314752089
+Max: 831.8000000000001
+Min: 450.29999999999995
+Average: 643.3718
+
+Generation [542]:
+Variance: 6674.848459640002
+Standard deviation: 81.69974577463508
+Max: 831.8000000000001
+Min: 444.4
+Average: 643.1494
+
+Generation [543]:
+Variance: 7287.5840353600015
+Standard deviation: 85.3673475947332
+Max: 831.8000000000001
+Min: 444.09999999999997
+Average: 642.0908000000001
+
+Generation [544]:
+Variance: 7208.102236960001
+Standard deviation: 84.90054320768508
+Max: 827.4
+Min: 489.70000000000005
+Average: 645.6548
+
+Generation [545]:
+Variance: 7489.872022840001
+Standard deviation: 86.54404672096169
+Max: 823.5999999999999
+Min: 412.70000000000005
+Average: 644.1154
+
+Generation [546]:
+Variance: 7580.01802764
+Standard deviation: 87.06329897057657
+Max: 847.5
+Min: 413.3
+Average: 640.0394
+
+Generation [547]:
+Variance: 7261.3239
+Standard deviation: 85.21340211492556
+Max: 847.5
+Min: 405.6
+Average: 638.95
+
+Generation [548]:
+Variance: 7094.707583160001
+Standard deviation: 84.2300871610614
+Max: 847.5
+Min: 481.29999999999995
+Average: 636.1678
+
+Generation [549]:
+Variance: 7696.5949969600015
+Standard deviation: 87.73023992307328
+Max: 839.3000000000001
+Min: 422.7
+Average: 631.3548000000001
+
+Generation [550]:
+Variance: 7005.445724000001
+Standard deviation: 83.69854075191515
+Max: 839.3000000000001
+Min: 422.09999999999997
+Average: 629.106
+
+Generation [551]:
+Variance: 7405.976578560002
+Standard deviation: 86.05798381649434
+Max: 839.3000000000001
+Min: 435.4
+Average: 637.1488
+
+Generation [552]:
+Variance: 6905.419757560001
+Standard deviation: 83.09885533242922
+Max: 839.3000000000001
+Min: 435.4
+Average: 631.2162
+
+Generation [553]:
+Variance: 6780.937035840001
+Standard deviation: 82.34644519249147
+Max: 839.3000000000001
+Min: 445.9000000000001
+Average: 627.8304
+
+Generation [554]:
+Variance: 6012.201154560002
+Standard deviation: 77.53838503966924
+Max: 829.7
+Min: 461.0
+Average: 624.9112
+
+Generation [555]:
+Variance: 5674.425714240001
+Standard deviation: 75.32878410169648
+Max: 820.1999999999999
+Min: 469.2
+Average: 624.7023999999999
+
+Generation [556]:
+Variance: 5671.738876
+Standard deviation: 75.31094791595709
+Max: 830.0
+Min: 434.49999999999994
+Average: 619.418
+
+Generation [557]:
+Variance: 6192.044089760001
+Standard deviation: 78.68954244218224
+Max: 814.9000000000001
+Min: 412.59999999999997
+Average: 611.2468
+
+Generation [558]:
+Variance: 5986.968378040001
+Standard deviation: 77.3755024412766
+Max: 814.9000000000001
+Min: 412.59999999999997
+Average: 609.7513999999999
+
+Generation [559]:
+Variance: 6351.87773036
+Standard deviation: 79.69866830982811
+Max: 839.3000000000001
+Min: 412.59999999999997
+Average: 609.1342
+
+Generation [560]:
+Variance: 6236.28239376
+Standard deviation: 78.97013608801747
+Max: 799.8
+Min: 419.40000000000003
+Average: 598.7068
+
+Generation [561]:
+Variance: 6306.14732544
+Standard deviation: 79.41125440036821
+Max: 799.1999999999999
+Min: 419.40000000000003
+Average: 591.3384000000001
+
+Generation [562]:
+Variance: 6832.6025492399995
+Standard deviation: 82.65955812390966
+Max: 802.9000000000001
+Min: 424.50000000000006
+Average: 599.2274
+
+Generation [563]:
+Variance: 7375.95357004
+Standard deviation: 85.88337190655709
+Max: 842.0
+Min: 424.50000000000006
+Average: 606.7386
+
+Generation [564]:
+Variance: 6675.627181560002
+Standard deviation: 81.70451139049791
+Max: 838.6
+Min: 472.2
+Average: 608.8438000000001
+
+Generation [565]:
+Variance: 6961.3440724400025
+Standard deviation: 83.43466948721019
+Max: 838.6
+Min: 442.0
+Average: 604.4733999999999
+
+Generation [566]:
+Variance: 7794.779158840002
+Standard deviation: 88.28804652295804
+Max: 838.6
+Min: 426.3999999999999
+Average: 607.3046
+
+Generation [567]:
+Variance: 8241.911232760003
+Standard deviation: 90.78497250514539
+Max: 838.6
+Min: 436.59999999999997
+Average: 614.1918000000001
+
+Generation [568]:
+Variance: 8377.365266560004
+Standard deviation: 91.52794800802651
+Max: 838.6
+Min: 436.59999999999997
+Average: 612.9688000000001
+
+Generation [569]:
+Variance: 8430.286328160002
+Standard deviation: 91.81659070211659
+Max: 835.8000000000001
+Min: 439.49999999999994
+Average: 615.6428000000001
+
+Generation [570]:
+Variance: 8781.871866040003
+Standard deviation: 93.71164210513015
+Max: 835.8000000000001
+Min: 431.90000000000003
+Average: 614.4086000000001
+
+Generation [571]:
+Variance: 9519.667152960004
+Standard deviation: 97.56878165150985
+Max: 837.6
+Min: 406.20000000000005
+Average: 618.2448
+
+Generation [572]:
+Variance: 9595.270796000004
+Standard deviation: 97.95545312028322
+Max: 835.8000000000001
+Min: 406.20000000000005
+Average: 618.322
+
+Generation [573]:
+Variance: 8141.202146040006
+Standard deviation: 90.22861046275736
+Max: 835.8000000000001
+Min: 420.9
+Average: 615.1586
+
+Generation [574]:
+Variance: 9088.861236000004
+Standard deviation: 95.33551927796903
+Max: 835.8000000000001
+Min: 471.29999999999995
+Average: 624.022
+
+Generation [575]:
+Variance: 9317.420426360004
+Standard deviation: 96.52678605630669
+Max: 830.6
+Min: 440.79999999999995
+Average: 630.2941999999999
+
+Generation [576]:
+Variance: 9719.635656760003
+Standard deviation: 98.58821256499178
+Max: 837.6
+Min: 435.6
+Average: 628.9481999999999
+
+Generation [577]:
+Variance: 10277.581415840004
+Standard deviation: 101.37840704923315
+Max: 837.6
+Min: 407.40000000000003
+Average: 638.3804
+
+Generation [578]:
+Variance: 10601.165300000004
+Standard deviation: 102.9619604514211
+Max: 838.8000000000001
+Min: 404.8
+Average: 643.95
+
+Generation [579]:
+Variance: 9372.152314240004
+Standard deviation: 96.80987715228237
+Max: 838.8000000000001
+Min: 400.70000000000005
+Average: 644.2976000000001
+
+Generation [580]:
+Variance: 11219.522600440003
+Standard deviation: 105.92224790118459
+Max: 830.6
+Min: 357.70000000000005
+Average: 657.9634
+
+Generation [581]:
+Variance: 9940.134404000002
+Standard deviation: 99.70022268781551
+Max: 835.7
+Min: 370.70000000000005
+Average: 654.626
+
+Generation [582]:
+Variance: 10307.742117560005
+Standard deviation: 101.52705116155006
+Max: 837.2
+Min: 370.70000000000005
+Average: 658.9338
+
+Generation [583]:
+Variance: 10656.437066040002
+Standard deviation: 103.23002017843454
+Max: 859.1
+Min: 375.50000000000006
+Average: 666.2414
+
+Generation [584]:
+Variance: 9322.675866560001
+Standard deviation: 96.55400492242671
+Max: 837.2
+Min: 375.50000000000006
+Average: 653.0311999999999
+
+Generation [585]:
+Variance: 8371.114340000002
+Standard deviation: 91.49379399718869
+Max: 837.2
+Min: 440.9
+Average: 643.49
+
+Generation [586]:
+Variance: 7773.724291000001
+Standard deviation: 88.16872626390834
+Max: 833.2
+Min: 476.49999999999994
+Average: 641.817
+
+Generation [587]:
+Variance: 8333.637656000003
+Standard deviation: 91.28875974620316
+Max: 840.3000000000001
+Min: 448.29999999999995
+Average: 644.108
+
+Generation [588]:
+Variance: 8324.636496760004
+Standard deviation: 91.2394459472437
+Max: 840.3000000000001
+Min: 436.29999999999995
+Average: 648.8481999999999
+
+Generation [589]:
+Variance: 7601.6197310000025
+Standard deviation: 87.18726817030112
+Max: 833.2
+Min: 436.29999999999995
+Average: 637.983
+
+Generation [590]:
+Variance: 7145.770257440003
+Standard deviation: 84.53265793431555
+Max: 816.3000000000001
+Min: 451.7
+Average: 640.1483999999999
+
+Generation [591]:
+Variance: 6287.186356000003
+Standard deviation: 79.29177987660513
+Max: 856.1
+Min: 445.09999999999997
+Average: 639.398
+
+Generation [592]:
+Variance: 5929.109546360003
+Standard deviation: 77.0007113367143
+Max: 833.1
+Min: 416.0
+Average: 637.9558000000001
+
+Generation [593]:
+Variance: 6597.662975840002
+Standard deviation: 81.22599938344867
+Max: 843.3000000000001
+Min: 457.39999999999986
+Average: 642.9803999999999
+
+Generation [594]:
+Variance: 6932.492291840002
+Standard deviation: 83.26158953467079
+Max: 843.3000000000001
+Min: 457.39999999999986
+Average: 641.0896000000001
+
+Generation [595]:
+Variance: 7517.6240078400015
+Standard deviation: 86.70423292919442
+Max: 833.1
+Min: 413.40000000000003
+Average: 639.0404
+
+Generation [596]:
+Variance: 7680.085884000003
+Standard deviation: 87.6360992057497
+Max: 820.2
+Min: 413.40000000000003
+Average: 636.554
+
+Generation [597]:
+Variance: 8177.174087160003
+Standard deviation: 90.42772853035734
+Max: 820.2
+Min: 413.40000000000003
+Average: 637.2278
+
+Generation [598]:
+Variance: 7124.874013560003
+Standard deviation: 84.40896879810819
+Max: 820.2
+Min: 456.5
+Average: 631.0762
+
+Generation [599]:
+Variance: 7349.006453240005
+Standard deviation: 85.72634631920344
+Max: 820.2
+Min: 456.5
+Average: 627.6026
+
+Generation [600]:
+Variance: 8193.957520960006
+Standard deviation: 90.52048122364356
+Max: 820.2
+Min: 456.5
+Average: 626.7648
+
+Generation [601]:
+Variance: 8079.697189240008
+Standard deviation: 89.88713583845025
+Max: 820.2
+Min: 456.5
+Average: 626.2726000000001
+
+Generation [602]:
+Variance: 8160.989131000007
+Standard deviation: 90.33819309129449
+Max: 820.2
+Min: 410.4
+Average: 625.927
+
+Generation [603]:
+Variance: 8930.908199160005
+Standard deviation: 94.5034824710709
+Max: 820.2
+Min: 427.49999999999994
+Average: 627.9422
+
+Generation [604]:
+Variance: 9833.710233760006
+Standard deviation: 99.16506559146727
+Max: 859.6000000000001
+Min: 393.5
+Average: 623.8932000000001
+
+Generation [605]:
+Variance: 9255.032779640005
+Standard deviation: 96.20308092592464
+Max: 859.6000000000001
+Min: 407.59999999999997
+Average: 621.5494
+
+Generation [606]:
+Variance: 9361.849028960005
+Standard deviation: 96.75664850003851
+Max: 835.1
+Min: 407.59999999999997
+Average: 622.1348
+
+Generation [607]:
+Variance: 8678.481474240005
+Standard deviation: 93.15836770918652
+Max: 830.4
+Min: 424.9
+Average: 625.8024
+
+Generation [608]:
+Variance: 9241.814971840005
+Standard deviation: 96.13435895578648
+Max: 830.7
+Min: 432.4
+Average: 624.8896
+
+Generation [609]:
+Variance: 9510.755972640005
+Standard deviation: 97.52310481439773
+Max: 820.2
+Min: 432.4
+Average: 623.3644
+
+Generation [610]:
+Variance: 9929.053044000008
+Standard deviation: 99.64463379429927
+Max: 820.2
+Min: 388.29999999999995
+Average: 628.494
+
+Generation [611]:
+Variance: 9300.361711160007
+Standard deviation: 96.43838297669662
+Max: 820.3000000000001
+Min: 457.9999999999999
+Average: 631.4622
+
+Generation [612]:
+Variance: 9452.370571000007
+Standard deviation: 97.22330261310817
+Max: 820.3000000000001
+Min: 449.80000000000007
+Average: 641.107
+
+Generation [613]:
+Variance: 9239.199061560006
+Standard deviation: 96.1207525020482
+Max: 822.9
+Min: 452.3
+Average: 642.4938000000001
+
+Generation [614]:
+Variance: 9635.210880960009
+Standard deviation: 98.15911002530538
+Max: 825.2
+Min: 460.5999999999999
+Average: 636.3648000000001
+
+Generation [615]:
+Variance: 10109.423131000009
+Standard deviation: 100.54562711028267
+Max: 825.2
+Min: 433.00000000000006
+Average: 640.723
+
+Generation [616]:
+Variance: 9359.495355360006
+Standard deviation: 96.74448488342891
+Max: 847.6
+Min: 468.3999999999999
+Average: 642.9091999999999
+
+Generation [617]:
+Variance: 8788.118623840006
+Standard deviation: 93.74496585865295
+Max: 845.0
+Min: 448.2
+Average: 640.9796000000001
+
+Generation [618]:
+Variance: 8354.075506040004
+Standard deviation: 91.40063186893187
+Max: 845.0
+Min: 382.5
+Average: 631.7586000000001
+
+Generation [619]:
+Variance: 7789.353823160005
+Standard deviation: 88.25731597527768
+Max: 825.2
+Min: 372.0
+Average: 631.2178
+
+Generation [620]:
+Variance: 7016.079923960005
+Standard deviation: 83.76204345620995
+Max: 825.2
+Min: 455.9
+Average: 626.7598
+
+Generation [621]:
+Variance: 6797.018700000006
+Standard deviation: 82.44403374411036
+Max: 825.2
+Min: 455.9
+Average: 620.69
+
+Generation [622]:
+Variance: 7254.816957440005
+Standard deviation: 85.17521328086009
+Max: 825.2
+Min: 439.1
+Average: 619.3984
+
+Generation [623]:
+Variance: 6187.190856760007
+Standard deviation: 78.6586985447891
+Max: 819.2
+Min: 439.1
+Average: 613.4982
+
+Generation [624]:
+Variance: 6570.601498560006
+Standard deviation: 81.05924684180088
+Max: 819.2
+Min: 436.3999999999999
+Average: 613.7511999999999
+
+Generation [625]:
+Variance: 5776.125129440005
+Standard deviation: 76.00082321554159
+Max: 819.2
+Min: 469.90000000000003
+Average: 610.6916000000001
+
+Generation [626]:
+Variance: 5470.029703160005
+Standard deviation: 73.95964915519816
+Max: 819.2
+Min: 431.0999999999999
+Average: 604.9821999999999
+
+Generation [627]:
+Variance: 5348.215371000005
+Standard deviation: 73.13149370141434
+Max: 819.2
+Min: 431.0999999999999
+Average: 602.483
+
+Generation [628]:
+Variance: 6482.156440000006
+Standard deviation: 80.51184037146342
+Max: 819.2
+Min: 351.09999999999997
+Average: 606.7
+
+Generation [629]:
+Variance: 7726.827677560008
+Standard deviation: 87.90237583569632
+Max: 826.6
+Min: 394.0
+Average: 613.4838000000001
+
+Generation [630]:
+Variance: 7862.740771000007
+Standard deviation: 88.67209691329064
+Max: 830.6
+Min: 413.3
+Average: 617.887
+
+Generation [631]:
+Variance: 7686.420759040006
+Standard deviation: 87.67223482403084
+Max: 846.4000000000001
+Min: 413.3
+Average: 624.2064000000001
+
+Generation [632]:
+Variance: 7880.250272960006
+Standard deviation: 88.77077375442892
+Max: 842.1
+Min: 413.3
+Average: 628.0551999999999
+
+Generation [633]:
+Variance: 7816.665671040006
+Standard deviation: 88.41190910188517
+Max: 842.1
+Min: 389.3
+Average: 633.5663999999999
+
+Generation [634]:
+Variance: 9280.739023360007
+Standard deviation: 96.33659233832182
+Max: 842.1
+Min: 412.79999999999995
+Average: 646.1392000000001
+
+Generation [635]:
+Variance: 9062.059861440004
+Standard deviation: 95.19485207425875
+Max: 842.1
+Min: 429.69999999999993
+Average: 646.8184
+
+Generation [636]:
+Variance: 8535.280535840006
+Standard deviation: 92.38658201189178
+Max: 842.1
+Min: 417.4
+Average: 642.7196000000001
+
+Generation [637]:
+Variance: 9160.058136000003
+Standard deviation: 95.7081926273817
+Max: 842.1
+Min: 417.4
+Average: 647.448
+
+Generation [638]:
+Variance: 8934.760013760004
+Standard deviation: 94.52385949462709
+Max: 842.1
+Min: 421.9
+Average: 656.1432
+
+Generation [639]:
+Variance: 9080.525114040003
+Standard deviation: 95.29178933171526
+Max: 842.1
+Min: 433.3
+Average: 655.2186
+
+Generation [640]:
+Variance: 8800.216567360003
+Standard deviation: 93.80946949727412
+Max: 842.1
+Min: 433.3
+Average: 655.9208000000001
+
+Generation [641]:
+Variance: 8729.735931000005
+Standard deviation: 93.43305587959759
+Max: 837.4000000000001
+Min: 448.90000000000003
+Average: 649.533
+
+Generation [642]:
+Variance: 9248.054395000005
+Standard deviation: 96.16680505767052
+Max: 831.4000000000001
+Min: 417.80000000000007
+Average: 647.675
+
+Generation [643]:
+Variance: 8582.466728640005
+Standard deviation: 92.64160365969495
+Max: 840.2
+Min: 448.90000000000003
+Average: 643.2944
+
+Generation [644]:
+Variance: 8175.164183160007
+Standard deviation: 90.4166145305165
+Max: 843.2
+Min: 472.79999999999995
+Average: 637.7178
+
+Generation [645]:
+Variance: 7141.458538360005
+Standard deviation: 84.50715081198753
+Max: 843.2
+Min: 382.9999999999999
+Average: 633.8358000000001
+
+Generation [646]:
+Variance: 6852.832768440005
+Standard deviation: 82.78183839732
+Max: 837.8000000000001
+Min: 398.09999999999997
+Average: 638.2966000000001
+
+Generation [647]:
+Variance: 8079.9664982400045
+Standard deviation: 89.88863386568963
+Max: 837.8000000000001
+Min: 469.2
+Average: 643.4776
+
+Generation [648]:
+Variance: 7509.272004000005
+Standard deviation: 86.65605578377085
+Max: 837.8000000000001
+Min: 415.4
+Average: 639.354
+
+Generation [649]:
+Variance: 7162.521027040005
+Standard deviation: 84.63167862591409
+Max: 831.4000000000001
+Min: 466.59999999999997
+Average: 636.0964
+
+Generation [650]:
+Variance: 7415.026336000004
+Standard deviation: 86.11054718209613
+Max: 828.2
+Min: 414.7
+Average: 635.788
+
+Generation [651]:
+Variance: 8164.970805440006
+Standard deviation: 90.36022800679515
+Max: 821.8000000000001
+Min: 414.7
+Average: 630.2384
+
+Generation [652]:
+Variance: 7361.304624000006
+Standard deviation: 85.7980455721458
+Max: 834.9000000000001
+Min: 414.7
+Average: 633.016
+
+Generation [653]:
+Variance: 7701.231771000005
+Standard deviation: 87.75666225991053
+Max: 821.8000000000001
+Min: 415.79999999999995
+Average: 638.587
+
+Generation [654]:
+Variance: 8356.244708960006
+Standard deviation: 91.41249755345275
+Max: 829.4000000000001
+Min: 409.79999999999995
+Average: 643.8652
+
+Generation [655]:
+Variance: 8013.877504000006
+Standard deviation: 89.5202630916599
+Max: 825.2
+Min: 439.8
+Average: 637.444
+
+Generation [656]:
+Variance: 8231.225644000007
+Standard deviation: 90.72610233003513
+Max: 832.6
+Min: 436.99999999999994
+Average: 638.666
+
+Generation [657]:
+Variance: 8176.786340000007
+Standard deviation: 90.42558454331389
+Max: 832.6
+Min: 457.9
+Average: 639.39
+
+Generation [658]:
+Variance: 7305.457717560005
+Standard deviation: 85.47197036198479
+Max: 829.3000000000001
+Min: 457.9
+Average: 638.0838
+
+Generation [659]:
+Variance: 6935.419739360004
+Standard deviation: 83.27916749920117
+Max: 829.3000000000001
+Min: 476.29999999999995
+Average: 637.7492
+
+Generation [660]:
+Variance: 6341.060662560007
+Standard deviation: 79.63077710634253
+Max: 829.3000000000001
+Min: 428.90000000000003
+Average: 634.5587999999999
+
+Generation [661]:
+Variance: 6346.1714590000065
+Standard deviation: 79.6628612278018
+Max: 829.3000000000001
+Min: 428.90000000000003
+Average: 637.011
+
+Generation [662]:
+Variance: 5813.4590081600045
+Standard deviation: 76.24604257376251
+Max: 829.3000000000001
+Min: 449.79999999999995
+Average: 629.6572
+
+Generation [663]:
+Variance: 6527.138899000005
+Standard deviation: 80.79071047465794
+Max: 828.2
+Min: 457.9
+Average: 630.059
+
+Generation [664]:
+Variance: 6390.467535160005
+Standard deviation: 79.94039989367081
+Max: 828.2
+Min: 479.4999999999999
+Average: 628.1522
+
+Generation [665]:
+Variance: 6510.495375360004
+Standard deviation: 80.68764078444731
+Max: 828.2
+Min: 422.2
+Average: 621.9408000000001
+
+Generation [666]:
+Variance: 6972.037565240005
+Standard deviation: 83.49872792587924
+Max: 828.2
+Min: 413.8
+Average: 622.1926000000001
+
+Generation [667]:
+Variance: 8001.336645240007
+Standard deviation: 89.45019086195404
+Max: 828.2
+Min: 442.5
+Average: 625.6926
+
+Generation [668]:
+Variance: 8825.290196000005
+Standard deviation: 93.94301568504177
+Max: 831.0000000000001
+Min: 435.79999999999995
+Average: 628.122
+
+Generation [669]:
+Variance: 8458.044872440007
+Standard deviation: 91.96762948146487
+Max: 831.0000000000001
+Min: 406.8
+Average: 625.5266
+
+Generation [670]:
+Variance: 7681.431188960007
+Standard deviation: 87.6437743879165
+Max: 828.2
+Min: 382.90000000000003
+Average: 628.3652000000001
+
+Generation [671]:
+Variance: 7695.925176000004
+Standard deviation: 87.7264223367168
+Max: 828.2
+Min: 413.2
+Average: 630.008
+
+Generation [672]:
+Variance: 7495.702470840004
+Standard deviation: 86.57772502693753
+Max: 852.6000000000001
+Min: 442.9
+Average: 624.1945999999999
+
+Generation [673]:
+Variance: 6944.137004960005
+Standard deviation: 83.33148867601012
+Max: 853.0
+Min: 442.9
+Average: 630.6748
+
+Generation [674]:
+Variance: 6662.738232760003
+Standard deviation: 81.62559790139368
+Max: 840.1
+Min: 451.1
+Average: 628.2418
+
+Generation [675]:
+Variance: 6890.831877560005
+Standard deviation: 83.0110346734698
+Max: 835.4
+Min: 411.1
+Average: 622.4338
+
+Generation [676]:
+Variance: 6274.455300640004
+Standard deviation: 79.21145940228601
+Max: 841.4
+Min: 452.1
+Average: 623.7956000000001
+
+Generation [677]:
+Variance: 6391.200942240003
+Standard deviation: 79.94498697379345
+Max: 835.4
+Min: 459.29999999999995
+Average: 628.8924
+
+Generation [678]:
+Variance: 6894.934291360002
+Standard deviation: 83.03574104781629
+Max: 835.4
+Min: 416.7
+Average: 632.2692000000001
+
+Generation [679]:
+Variance: 6543.465090360002
+Standard deviation: 80.89168739963335
+Max: 846.8000000000001
+Min: 438.3999999999999
+Average: 632.2158000000001
+
+Generation [680]:
+Variance: 7197.580713440004
+Standard deviation: 84.83855676188747
+Max: 838.6
+Min: 415.4
+Average: 630.6283999999999
+
+Generation [681]:
+Variance: 6895.437605240002
+Standard deviation: 83.03877169876733
+Max: 843.0
+Min: 404.2
+Average: 626.2926000000001
+
+Generation [682]:
+Variance: 6537.5401527600025
+Standard deviation: 80.85505644522179
+Max: 838.6
+Min: 468.90000000000003
+Average: 621.5918
+
+Generation [683]:
+Variance: 7302.262314360004
+Standard deviation: 85.45327562100826
+Max: 838.6
+Min: 419.99999999999994
+Average: 628.9742000000001
+
+Generation [684]:
+Variance: 7733.530651640005
+Standard deviation: 87.94049494766337
+Max: 842.2
+Min: 415.50000000000006
+Average: 635.5594
+
+Generation [685]:
+Variance: 7860.554240760006
+Standard deviation: 88.65976675335891
+Max: 853.6000000000001
+Min: 485.0999999999999
+Average: 640.4381999999999
+
+Generation [686]:
+Variance: 8139.379960000007
+Standard deviation: 90.21851229099273
+Max: 853.6000000000001
+Min: 404.09999999999997
+Average: 641.48
+
+Generation [687]:
+Variance: 8326.544587960007
+Standard deviation: 91.24990185178287
+Max: 853.6000000000001
+Min: 452.59999999999997
+Average: 639.8698
+
+Generation [688]:
+Variance: 7325.167891360005
+Standard deviation: 85.58719466929621
+Max: 839.6
+Min: 469.0
+Average: 629.1691999999999
+
+Generation [689]:
+Variance: 8804.354571040005
+Standard deviation: 93.83152226751949
+Max: 839.6
+Min: 468.6
+Average: 630.9164000000002
+
+Generation [690]:
+Variance: 8478.318317560006
+Standard deviation: 92.07778406086892
+Max: 839.6
+Min: 469.0
+Average: 636.8162000000001
+
+Generation [691]:
+Variance: 7955.273256440004
+Standard deviation: 89.19233855236672
+Max: 839.6
+Min: 455.0
+Average: 635.1933999999999
+
+Generation [692]:
+Variance: 9013.228784000004
+Standard deviation: 94.93802601697597
+Max: 825.2000000000002
+Min: 446.4
+Average: 641.604
+
+Generation [693]:
+Variance: 8624.452651640006
+Standard deviation: 92.86793123376877
+Max: 825.2000000000002
+Min: 458.0
+Average: 644.2094000000001
+
+Generation [694]:
+Variance: 8802.557324000003
+Standard deviation: 93.82194478905244
+Max: 829.3000000000001
+Min: 458.0
+Average: 638.954
+
+Generation [695]:
+Variance: 8491.000975160003
+Standard deviation: 92.14662758430177
+Max: 829.3000000000001
+Min: 452.2
+Average: 644.1978
+
+Generation [696]:
+Variance: 9365.052992960002
+Standard deviation: 96.77320389942663
+Max: 838.6
+Min: 452.2
+Average: 645.6552
+
+Generation [697]:
+Variance: 8915.928938040002
+Standard deviation: 94.42419678260441
+Max: 829.3000000000001
+Min: 478.29999999999995
+Average: 637.6986
+
+Generation [698]:
+Variance: 9173.888373560005
+Standard deviation: 95.78041748478655
+Max: 829.3000000000001
+Min: 441.0
+Average: 636.2238
+
+Generation [699]:
+Variance: 9207.754390560005
+Standard deviation: 95.9570445072169
+Max: 829.3000000000001
+Min: 443.1
+Average: 641.1788
+
+Generation [700]:
+Variance: 8750.652251000003
+Standard deviation: 93.54492103262477
+Max: 828.6
+Min: 439.7
+Average: 645.197
+
+Generation [701]:
+Variance: 8773.845297760003
+Standard deviation: 93.66880642860782
+Max: 828.6
+Min: 439.7
+Average: 656.4668
+
+Generation [702]:
+Variance: 10197.504475640004
+Standard deviation: 100.98269394128879
+Max: 832.3000000000001
+Min: 418.19999999999993
+Average: 655.2706000000001
+
+Generation [703]:
+Variance: 10336.742118840006
+Standard deviation: 101.66976993600412
+Max: 838.1
+Min: 418.09999999999997
+Average: 653.8045999999999
+
+Generation [704]:
+Variance: 9276.009699000004
+Standard deviation: 96.31204337464762
+Max: 838.1
+Min: 391.79999999999995
+Average: 649.551
+
+Generation [705]:
+Variance: 8296.743799840004
+Standard deviation: 91.08646331832192
+Max: 838.1
+Min: 424.8
+Average: 649.3004
+
+Generation [706]:
+Variance: 7525.809154360003
+Standard deviation: 86.751421627314
+Max: 838.1
+Min: 472.8
+Average: 649.8758
+
+Generation [707]:
+Variance: 7519.275384760002
+Standard deviation: 86.71375545298451
+Max: 838.1
+Min: 470.59999999999997
+Average: 652.3281999999999
+
+Generation [708]:
+Variance: 7015.544820000002
+Standard deviation: 83.75884920412888
+Max: 832.5999999999999
+Min: 445.70000000000005
+Average: 645.95
+
+Generation [709]:
+Variance: 6482.753931000001
+Standard deviation: 80.51555086441377
+Max: 847.1
+Min: 456.90000000000003
+Average: 646.717
+
+Generation [710]:
+Variance: 7166.769411000001
+Standard deviation: 84.65677415895317
+Max: 847.1
+Min: 449.29999999999995
+Average: 646.397
+
+Generation [711]:
+Variance: 7590.831623360003
+Standard deviation: 87.12537875590557
+Max: 832.5999999999999
+Min: 424.8
+Average: 638.6392000000001
+
+Generation [712]:
+Variance: 7421.540833760001
+Standard deviation: 86.14836524136719
+Max: 847.1
+Min: 413.3
+Average: 638.9068000000001
+
+Generation [713]:
+Variance: 6756.888933560001
+Standard deviation: 82.20029764885284
+Max: 841.5
+Min: 395.5
+Average: 642.1737999999999
+
+Generation [714]:
+Variance: 6040.716784000002
+Standard deviation: 77.7220482488721
+Max: 841.5
+Min: 430.9
+Average: 643.144
+
+Generation [715]:
+Variance: 5254.473160000001
+Standard deviation: 72.48774489525799
+Max: 855.7
+Min: 468.70000000000005
+Average: 637.34
+
+Generation [716]:
+Variance: 6150.26002224
+Standard deviation: 78.4235935305186
+Max: 828.6
+Min: 407.40000000000003
+Average: 635.6076
+
+Generation [717]:
+Variance: 5123.9009716400005
+Standard deviation: 71.58142895779604
+Max: 828.6
+Min: 407.40000000000003
+Average: 633.1406
+
+Generation [718]:
+Variance: 4673.682664000001
+Standard deviation: 68.36433766226365
+Max: 828.6
+Min: 468.70000000000005
+Average: 634.344
+
+Generation [719]:
+Variance: 5350.4921862400015
+Standard deviation: 73.14705863013222
+Max: 828.6
+Min: 430.30000000000007
+Average: 630.9376000000001
+
+Generation [720]:
+Variance: 5726.329271840001
+Standard deviation: 75.67251331784878
+Max: 828.6
+Min: 459.7999999999999
+Average: 631.2396000000001
+
+Generation [721]:
+Variance: 5424.227743040001
+Standard deviation: 73.649356704862
+Max: 828.6
+Min: 437.2999999999999
+Average: 629.6736000000001
+
+Generation [722]:
+Variance: 5601.424262560001
+Standard deviation: 74.84266338499721
+Max: 828.6
+Min: 474.90000000000003
+Average: 626.1412
+
+Generation [723]:
+Variance: 6406.240167360002
+Standard deviation: 80.03899154387193
+Max: 840.0
+Min: 464.70000000000005
+Average: 629.0208
+
+Generation [724]:
+Variance: 6129.128598840002
+Standard deviation: 78.28875141960052
+Max: 840.0
+Min: 421.29999999999995
+Average: 629.2046
+
+Generation [725]:
+Variance: 6258.886089760002
+Standard deviation: 79.11312210853521
+Max: 821.1
+Min: 467.6
+Average: 635.0532000000001
+
+Generation [726]:
+Variance: 5715.980046840001
+Standard deviation: 75.60410072767218
+Max: 814.0
+Min: 465.6
+Average: 626.1646000000001
+
+Generation [727]:
+Variance: 5708.696304000001
+Standard deviation: 75.55591508280474
+Max: 814.0
+Min: 467.6
+Average: 629.896
+
+Generation [728]:
+Variance: 4759.422784
+Standard deviation: 68.98856995184057
+Max: 831.2
+Min: 467.8
+Average: 622.644
+
+Generation [729]:
+Variance: 5467.23216544
+Standard deviation: 73.94073414187879
+Max: 829.5
+Min: 400.6000000000001
+Average: 620.8616000000001
+
+Generation [730]:
+Variance: 5501.737396
+Standard deviation: 74.17369746749854
+Max: 829.5
+Min: 401.20000000000005
+Average: 621.702
+
+Generation [731]:
+Variance: 6487.7996830400025
+Standard deviation: 80.54687879142185
+Max: 840.7
+Min: 415.0
+Average: 627.9236000000001
+
+Generation [732]:
+Variance: 6881.219739000002
+Standard deviation: 82.95311771717807
+Max: 815.5
+Min: 415.0
+Average: 621.919
+
+Generation [733]:
+Variance: 6510.587899040002
+Standard deviation: 80.68821412721937
+Max: 819.6000000000001
+Min: 444.9
+Average: 628.1436000000001
+
+Generation [734]:
+Variance: 7116.455368760002
+Standard deviation: 84.35908586963234
+Max: 813.4000000000001
+Min: 422.00000000000006
+Average: 626.4182000000001
+
+Generation [735]:
+Variance: 7604.660659360002
+Standard deviation: 87.20470548863749
+Max: 825.6999999999999
+Min: 432.80000000000007
+Average: 626.2492000000001
+
+Generation [736]:
+Variance: 7672.08945584
+Standard deviation: 87.59046441160133
+Max: 832.0999999999999
+Min: 422.7
+Average: 623.7196000000001
+
+Generation [737]:
+Variance: 8453.81255436
+Standard deviation: 91.94461677749274
+Max: 832.0999999999999
+Min: 377.5999999999999
+Average: 620.8742000000002
+
+Generation [738]:
+Variance: 7754.272323960001
+Standard deviation: 88.0583461345942
+Max: 832.0999999999999
+Min: 401.70000000000005
+Average: 617.5598
+
+Generation [739]:
+Variance: 8034.90650224
+Standard deviation: 89.63763998588986
+Max: 832.0999999999999
+Min: 401.70000000000005
+Average: 623.4924
+
+Generation [740]:
+Variance: 8208.12962896
+Standard deviation: 90.59872862772413
+Max: 832.0999999999999
+Min: 412.20000000000005
+Average: 621.4652000000001
+
+Generation [741]:
+Variance: 7617.367423160001
+Standard deviation: 87.2775310326776
+Max: 844.2
+Min: 409.6
+Average: 615.6822
+
+Generation [742]:
+Variance: 7442.099717239999
+Standard deviation: 86.26760525968018
+Max: 838.2
+Min: 428.8999999999999
+Average: 619.4326000000001
+
+Generation [743]:
+Variance: 8364.16148704
+Standard deviation: 91.45578979506985
+Max: 838.2
+Min: 430.49999999999994
+Average: 618.7536
+
+Generation [744]:
+Variance: 8225.271368760003
+Standard deviation: 90.69328182814867
+Max: 818.6999999999999
+Min: 457.1
+Average: 614.2182
+
+Generation [745]:
+Variance: 9071.861794040002
+Standard deviation: 95.2463216824671
+Max: 818.6999999999999
+Min: 457.79999999999995
+Average: 614.2686000000001
+
+Generation [746]:
+Variance: 9816.863799360004
+Standard deviation: 99.08008780456346
+Max: 818.6999999999999
+Min: 387.59999999999997
+Average: 609.9992000000001
+
+Generation [747]:
+Variance: 10372.264762360002
+Standard deviation: 101.84431629875083
+Max: 822.0999999999999
+Min: 411.59999999999997
+Average: 611.1458
+
+Generation [748]:
+Variance: 11608.59242176
+Standard deviation: 107.74317807527305
+Max: 822.0999999999999
+Min: 415.59999999999997
+Average: 619.9768
+
+Generation [749]:
+Variance: 12614.088950240002
+Standard deviation: 112.31246124201893
+Max: 830.3
+Min: 415.59999999999997
+Average: 618.0676000000001
+
+Generation [750]:
+Variance: 12063.637042360004
+Standard deviation: 109.83458946233651
+Max: 822.0999999999999
+Min: 390.49999999999994
+Average: 620.4958
+
+Generation [751]:
+Variance: 12525.94004144
+Standard deviation: 111.91934614462328
+Max: 822.0999999999999
+Min: 427.6
+Average: 626.2316000000001
+
+Generation [752]:
+Variance: 11657.140496
+Standard deviation: 107.9682383666604
+Max: 822.0999999999999
+Min: 424.99999999999994
+Average: 622.8880000000001
+
+Generation [753]:
+Variance: 11653.002116
+Standard deviation: 107.94907186261491
+Max: 821.8
+Min: 383.0
+Average: 633.938
+
+Generation [754]:
+Variance: 12378.14680464
+Standard deviation: 111.25712024243663
+Max: 824.3000000000001
+Min: 416.09999999999997
+Average: 634.3756000000001
+
+Generation [755]:
+Variance: 11671.99141356
+Standard deviation: 108.03699095013707
+Max: 827.8000000000001
+Min: 420.59999999999997
+Average: 629.1738
+
+Generation [756]:
+Variance: 12844.633866359998
+Standard deviation: 113.33416901517387
+Max: 831.6000000000001
+Min: 379.59999999999997
+Average: 634.0058
+
+Generation [757]:
+Variance: 12568.119059
+Standard deviation: 112.10762266233283
+Max: 852.0000000000001
+Min: 401.7
+Average: 642.741
+
+Generation [758]:
+Variance: 11718.180598240002
+Standard deviation: 108.25054548703208
+Max: 836.4000000000001
+Min: 396.70000000000005
+Average: 641.4723999999999
+
+Generation [759]:
+Variance: 10933.89048416
+Standard deviation: 104.56524510639278
+Max: 831.6000000000001
+Min: 424.2
+Average: 638.2672
+
+Generation [760]:
+Variance: 10206.312760760002
+Standard deviation: 101.02629737231787
+Max: 831.6000000000001
+Min: 441.6
+Average: 633.4882
+
+Generation [761]:
+Variance: 9630.658593440003
+Standard deviation: 98.13591897689655
+Max: 836.8000000000001
+Min: 407.8
+Average: 639.6283999999999
+
+Generation [762]:
+Variance: 10074.648539000005
+Standard deviation: 100.37254873221067
+Max: 836.8000000000001
+Min: 482.09999999999997
+Average: 624.859
+
+Generation [763]:
+Variance: 9062.306648640004
+Standard deviation: 95.19614828678733
+Max: 836.8000000000001
+Min: 447.4
+Average: 615.4056
+
+Generation [764]:
+Variance: 8664.563651640003
+Standard deviation: 93.08363793728736
+Max: 828.0
+Min: 447.4
+Average: 612.7094
+
+Generation [765]:
+Variance: 8425.284399840004
+Standard deviation: 91.78934796500084
+Max: 828.0
+Min: 397.3
+Average: 615.0996000000001
+
+Generation [766]:
+Variance: 7995.530211000002
+Standard deviation: 89.41772872870347
+Max: 828.0
+Min: 402.1
+Average: 625.913
+
+Generation [767]:
+Variance: 7117.992155640001
+Standard deviation: 84.36819398114434
+Max: 828.0
+Min: 466.99999999999994
+Average: 622.0294000000001
+
+Generation [768]:
+Variance: 7092.555368160002
+Standard deviation: 84.2173103830798
+Max: 828.0
+Min: 437.2
+Average: 625.6428000000001
+
+Generation [769]:
+Variance: 6529.996859000001
+Standard deviation: 80.80839596848833
+Max: 828.0
+Min: 437.2
+Average: 628.191
+
+Generation [770]:
+Variance: 6937.120635960002
+Standard deviation: 83.2893788904684
+Max: 822.2
+Min: 440.30000000000007
+Average: 624.9398
+
+Generation [771]:
+Variance: 7116.561844000001
+Standard deviation: 84.35971695068685
+Max: 825.3
+Min: 449.99999999999994
+Average: 623.926
+
+Generation [772]:
+Variance: 6956.508985440001
+Standard deviation: 83.40568916710659
+Max: 821.7000000000002
+Min: 389.3
+Average: 621.6884
+
+Generation [773]:
+Variance: 6213.55383024
+Standard deviation: 78.8260986618011
+Max: 816.6000000000001
+Min: 401.19999999999993
+Average: 623.8676
+
+Generation [774]:
+Variance: 6963.73302444
+Standard deviation: 83.44898456206643
+Max: 806.1
+Min: 467.7
+Average: 622.5166
+
+Generation [775]:
+Variance: 7209.566927159999
+Standard deviation: 84.90916868725073
+Max: 806.1
+Min: 433.90000000000003
+Average: 622.4278
+
+Generation [776]:
+Variance: 7288.196010240001
+Standard deviation: 85.37093188105656
+Max: 806.1
+Min: 433.90000000000003
+Average: 628.0824000000001
+
+Generation [777]:
+Variance: 7319.413468960002
+Standard deviation: 85.55357075517072
+Max: 833.2000000000002
+Min: 433.90000000000003
+Average: 625.3348000000001
+
+Generation [778]:
+Variance: 6891.210384440002
+Standard deviation: 83.01331450098834
+Max: 839.6000000000001
+Min: 439.59999999999997
+Average: 620.5834
+
+Generation [779]:
+Variance: 7419.373840000002
+Standard deviation: 86.1357872199471
+Max: 833.4
+Min: 405.0
+Average: 624.34
+
+Generation [780]:
+Variance: 6588.673612640001
+Standard deviation: 81.17064501801129
+Max: 833.4
+Min: 405.0
+Average: 617.6356000000001
+
+Generation [781]:
+Variance: 6398.870780960002
+Standard deviation: 79.99294206966013
+Max: 833.4
+Min: 377.6
+Average: 615.0148
+
+Generation [782]:
+Variance: 6621.621504440002
+Standard deviation: 81.37334640064891
+Max: 833.4
+Min: 385.30000000000007
+Average: 615.5834
+
+Generation [783]:
+Variance: 7163.901136760002
+Standard deviation: 84.6398318568746
+Max: 833.4
+Min: 317.70000000000005
+Average: 620.7982
+
+Generation [784]:
+Variance: 6733.406451040001
+Standard deviation: 82.05733636330149
+Max: 833.4
+Min: 384.1000000000001
+Average: 608.5164
+
+Generation [785]:
+Variance: 7302.6677089600025
+Standard deviation: 85.45564761301621
+Max: 833.4
+Min: 397.00000000000006
+Average: 609.6651999999999
+
+Generation [786]:
+Variance: 7312.910253560001
+Standard deviation: 85.51555562328997
+Max: 833.4
+Min: 438.2999999999999
+Average: 605.0738
+
+Generation [787]:
+Variance: 7161.619159160002
+Standard deviation: 84.62635026491455
+Max: 833.4
+Min: 444.09999999999997
+Average: 605.4921999999999
+
+Generation [788]:
+Variance: 5700.166442040002
+Standard deviation: 75.4994466339986
+Max: 825.0
+Min: 455.59999999999997
+Average: 600.1786000000001
+
+Generation [789]:
+Variance: 5742.135840160002
+Standard deviation: 75.77688196382853
+Max: 830.5
+Min: 452.3999999999999
+Average: 598.6228000000001
+
+Generation [790]:
+Variance: 6529.218619000001
+Standard deviation: 80.80358048378798
+Max: 821.5
+Min: 422.6
+Average: 600.349
+
+Generation [791]:
+Variance: 7149.369063040002
+Standard deviation: 84.55394173567547
+Max: 826.4
+Min: 422.6
+Average: 601.7264
+
+Generation [792]:
+Variance: 5965.054653240002
+Standard deviation: 77.23376627641566
+Max: 826.4
+Min: 422.6
+Average: 596.8526
+
+Generation [793]:
+Variance: 5755.390299960001
+Standard deviation: 75.86428870002013
+Max: 826.4
+Min: 411.59999999999997
+Average: 584.8001999999999
+
+Generation [794]:
+Variance: 5959.544070840001
+Standard deviation: 77.19808333656997
+Max: 826.4
+Min: 425.90000000000003
+Average: 590.5054
+
+Generation [795]:
+Variance: 5208.385202240001
+Standard deviation: 72.16914300613526
+Max: 817.6
+Min: 415.80000000000007
+Average: 586.1576
+
+Generation [796]:
+Variance: 5495.536515040001
+Standard deviation: 74.13188595361649
+Max: 817.6
+Min: 415.80000000000007
+Average: 589.5364000000001
+
+Generation [797]:
+Variance: 5276.5350724400005
+Standard deviation: 72.63976233744161
+Max: 817.6
+Min: 388.09999999999997
+Average: 589.2266
+
+Generation [798]:
+Variance: 6237.747931000001
+Standard deviation: 78.97941460279381
+Max: 817.6
+Min: 418.7
+Average: 595.173
+
+Generation [799]:
+Variance: 5633.22782896
+Standard deviation: 75.05483214930268
+Max: 791.3000000000001
+Min: 418.7
+Average: 591.3652
+
+Generation [800]:
+Variance: 5551.439744000001
+Standard deviation: 74.5079844312004
+Max: 791.3000000000001
+Min: 422.2
+Average: 589.756
+
+Generation [801]:
+Variance: 6511.160598840002
+Standard deviation: 80.69176289337098
+Max: 791.3000000000001
+Min: 372.59999999999997
+Average: 586.5454
+
+Generation [802]:
+Variance: 6047.932606840001
+Standard deviation: 77.76845508842258
+Max: 791.3000000000001
+Min: 422.2
+Average: 590.0354
+
+Generation [803]:
+Variance: 5750.0508116400015
+Standard deviation: 75.82908948180771
+Max: 791.3000000000001
+Min: 399.09999999999997
+Average: 584.0905999999999
+
+Generation [804]:
+Variance: 5818.837719160002
+Standard deviation: 76.2813064856653
+Max: 791.3000000000001
+Min: 396.1
+Average: 586.2922
+
+Generation [805]:
+Variance: 6443.432392440002
+Standard deviation: 80.27099346862478
+Max: 797.8000000000002
+Min: 421.3
+Average: 590.9766000000001
+
+Generation [806]:
+Variance: 6378.783013760003
+Standard deviation: 79.8672837509828
+Max: 801.9000000000001
+Min: 414.8
+Average: 595.6568000000001
+
+Generation [807]:
+Variance: 7027.514432760003
+Standard deviation: 83.8302715775155
+Max: 825.3000000000001
+Min: 441.30000000000007
+Average: 598.5918
+
+Generation [808]:
+Variance: 7621.476926840005
+Standard deviation: 87.30107059389367
+Max: 801.9000000000001
+Min: 444.4
+Average: 607.8146
+
+Generation [809]:
+Variance: 7462.057722040003
+Standard deviation: 86.38320277716035
+Max: 808.3000000000001
+Min: 449.0
+Average: 607.2714
+
+Generation [810]:
+Variance: 8759.034299840005
+Standard deviation: 93.5897125748338
+Max: 818.7000000000002
+Min: 449.0
+Average: 614.9496000000001
+
+Generation [811]:
+Variance: 7716.815675960004
+Standard deviation: 87.84540782511061
+Max: 846.9000000000001
+Min: 449.0
+Average: 608.6398
+
+Generation [812]:
+Variance: 7871.779034040006
+Standard deviation: 88.72304680318416
+Max: 807.9000000000002
+Min: 422.8
+Average: 611.9186000000001
+
+Generation [813]:
+Variance: 8322.034384440005
+Standard deviation: 91.22518503373948
+Max: 833.2000000000002
+Min: 422.8
+Average: 616.5834
+
+Generation [814]:
+Variance: 8189.465478560005
+Standard deviation: 90.49566552360398
+Max: 833.2000000000002
+Min: 398.8
+Average: 617.6012000000001
+
+Generation [815]:
+Variance: 8226.817439160004
+Standard deviation: 90.70180504907277
+Max: 833.2000000000002
+Min: 398.8
+Average: 614.9422000000001
+
+Generation [816]:
+Variance: 7990.7559102400055
+Standard deviation: 89.39102813056803
+Max: 833.2000000000002
+Min: 442.19999999999993
+Average: 616.7676000000001
+
+Generation [817]:
+Variance: 9159.089291840006
+Standard deviation: 95.7031310451231
+Max: 833.2000000000002
+Min: 447.0
+Average: 621.4104
+
+Generation [818]:
+Variance: 8026.282638840004
+Standard deviation: 89.58952304170396
+Max: 833.2000000000002
+Min: 415.9
+Average: 602.9046
+
+Generation [819]:
+Variance: 8560.819156160007
+Standard deviation: 92.52469484499804
+Max: 833.2000000000002
+Min: 421.79999999999995
+Average: 606.8128
+
+Generation [820]:
+Variance: 9419.780199160008
+Standard deviation: 97.05555212948927
+Max: 833.2000000000002
+Min: 370.4
+Average: 616.4922
+
+Generation [821]:
+Variance: 9645.796329440005
+Standard deviation: 98.21301507152708
+Max: 833.2000000000002
+Min: 462.90000000000003
+Average: 618.9916000000001
+
+Generation [822]:
+Variance: 8377.245069440005
+Standard deviation: 91.52729139136592
+Max: 833.6
+Min: 441.5
+Average: 610.1416
+
+Generation [823]:
+Variance: 9304.567691000004
+Standard deviation: 96.4601870773637
+Max: 839.9000000000002
+Min: 377.40000000000003
+Average: 607.863
+
+Generation [824]:
+Variance: 8848.795531640004
+Standard deviation: 94.06803671619815
+Max: 839.9000000000002
+Min: 352.5
+Average: 601.4594000000001
+
+Generation [825]:
+Variance: 9044.663894840003
+Standard deviation: 95.10343787077312
+Max: 839.9000000000002
+Min: 411.5
+Average: 598.6254
+
+Generation [826]:
+Variance: 10049.748037560004
+Standard deviation: 100.2484315965093
+Max: 839.9000000000002
+Min: 411.5
+Average: 599.1837999999999
+
+Generation [827]:
+Variance: 9784.764421240006
+Standard deviation: 98.91796814148583
+Max: 839.9000000000002
+Min: 411.5
+Average: 601.3374
+
+Generation [828]:
+Variance: 9781.166409440004
+Standard deviation: 98.89977962280808
+Max: 839.9000000000002
+Min: 454.6
+Average: 606.5916
+
+Generation [829]:
+Variance: 10581.586922040004
+Standard deviation: 102.86684073130662
+Max: 839.9000000000002
+Min: 422.40000000000003
+Average: 607.3213999999999
+
+Generation [830]:
+Variance: 11765.238795000003
+Standard deviation: 108.46768548742986
+Max: 839.9000000000002
+Min: 422.40000000000003
+Average: 618.115
+
+Generation [831]:
+Variance: 12287.284964000002
+Standard deviation: 110.84802643258924
+Max: 839.9000000000002
+Min: 435.8999999999999
+Average: 622.326
+
+Generation [832]:
+Variance: 11144.037739000003
+Standard deviation: 105.56532451046604
+Max: 814.7
+Min: 455.3
+Average: 629.189
+
+Generation [833]:
+Variance: 10605.412391040003
+Standard deviation: 102.98258294993383
+Max: 823.6
+Min: 405.99999999999994
+Average: 631.7664000000001
+
+Generation [834]:
+Variance: 10968.537707360003
+Standard deviation: 104.73078681724874
+Max: 823.6
+Min: 405.99999999999994
+Average: 638.0292
+
+Generation [835]:
+Variance: 10528.72799504
+Standard deviation: 102.60959017089972
+Max: 823.6
+Min: 405.99999999999994
+Average: 641.1636000000001
+
+Generation [836]:
+Variance: 9572.933264640002
+Standard deviation: 97.84136785961243
+Max: 823.6
+Min: 405.99999999999994
+Average: 634.9744000000001
+
+Generation [837]:
+Variance: 8696.206131
+Standard deviation: 93.25345104069876
+Max: 823.6
+Min: 401.8
+Average: 625.863
+
+Generation [838]:
+Variance: 8428.97779184
+Standard deviation: 91.80946460926563
+Max: 842.2
+Min: 392.20000000000005
+Average: 630.7604
+
+Generation [839]:
+Variance: 9150.447997239999
+Standard deviation: 95.65797403896865
+Max: 842.2
+Min: 383.3
+Average: 629.8674
+
+Generation [840]:
+Variance: 8561.072875999998
+Standard deviation: 92.5260659273915
+Max: 832.0
+Min: 383.3
+Average: 629.838
+
+Generation [841]:
+Variance: 7846.828135039999
+Standard deviation: 88.58232405531027
+Max: 820.1999999999999
+Min: 383.3
+Average: 627.6863999999999
+
+Generation [842]:
+Variance: 8500.98256076
+Standard deviation: 92.20077310283249
+Max: 820.1999999999999
+Min: 383.3
+Average: 624.9617999999999
+
+Generation [843]:
+Variance: 8820.445819
+Standard deviation: 93.91722855259306
+Max: 820.1999999999999
+Min: 354.7
+Average: 626.869
+
+Generation [844]:
+Variance: 8634.06755584
+Standard deviation: 92.9196833606314
+Max: 820.1999999999999
+Min: 354.7
+Average: 624.0304
+
+Generation [845]:
+Variance: 8186.372339
+Standard deviation: 90.47857392222757
+Max: 813.9
+Min: 354.7
+Average: 630.041
+
+Generation [846]:
+Variance: 7797.11732176
+Standard deviation: 88.30128720330185
+Max: 812.3000000000001
+Min: 354.7
+Average: 632.6268
+
+Generation [847]:
+Variance: 7255.588619959999
+Standard deviation: 85.17974301416974
+Max: 811.2
+Min: 342.7
+Average: 627.9498000000001
+
+Generation [848]:
+Variance: 7576.47333804
+Standard deviation: 87.04293962200495
+Max: 812.1999999999999
+Min: 359.2
+Average: 629.1514000000002
+
+Generation [849]:
+Variance: 7955.713968639999
+Standard deviation: 89.19480909021556
+Max: 827.6999999999999
+Min: 359.2
+Average: 633.9055999999999
+
+Generation [850]:
+Variance: 7307.652975359999
+Standard deviation: 85.48481137231337
+Max: 827.6999999999999
+Min: 359.2
+Average: 636.1591999999999
+
+Generation [851]:
+Variance: 7226.822099
+Standard deviation: 85.01071755372966
+Max: 828.0999999999999
+Min: 446.20000000000005
+Average: 632.549
+
+Generation [852]:
+Variance: 7007.09129036
+Standard deviation: 83.70837049160616
+Max: 833.6
+Min: 420.90000000000003
+Average: 632.5158
+
+Generation [853]:
+Variance: 6091.02293776
+Standard deviation: 78.04500584765178
+Max: 833.6
+Min: 441.0000000000001
+Average: 629.9332
+
+Generation [854]:
+Variance: 6517.488531959998
+Standard deviation: 80.73096389837048
+Max: 833.6
+Min: 406.9
+Average: 629.7798
+
+Generation [855]:
+Variance: 7125.831112759999
+Standard deviation: 84.41463802421947
+Max: 833.6
+Min: 406.9
+Average: 628.7418
+
+Generation [856]:
+Variance: 7162.443405239999
+Standard deviation: 84.63122003870676
+Max: 833.6
+Min: 455.2
+Average: 632.8074
+
+Generation [857]:
+Variance: 6453.388344000001
+Standard deviation: 80.33298415968375
+Max: 830.9
+Min: 462.20000000000005
+Average: 632.356
+
+Generation [858]:
+Variance: 6385.34431856
+Standard deviation: 79.90834949215257
+Max: 830.9
+Min: 391.5
+Average: 634.4011999999999
+
+Generation [859]:
+Variance: 6732.318600159999
+Standard deviation: 82.05070749335437
+Max: 830.9
+Min: 402.0
+Average: 634.1772000000001
+
+Generation [860]:
+Variance: 6654.583928759999
+Standard deviation: 81.57563318025794
+Max: 830.9
+Min: 367.90000000000003
+Average: 631.3181999999999
+
+Generation [861]:
+Variance: 6295.85842316
+Standard deviation: 79.34644556097015
+Max: 830.9
+Min: 377.50000000000006
+Average: 624.8678000000001
+
+Generation [862]:
+Variance: 5844.686759040002
+Standard deviation: 76.45055107087195
+Max: 827.6999999999999
+Min: 372.40000000000003
+Average: 626.0063999999999
+
+Generation [863]:
+Variance: 6410.053131
+Standard deviation: 80.06280741392972
+Max: 827.6999999999999
+Min: 372.40000000000003
+Average: 624.627
+
+Generation [864]:
+Variance: 6778.4095012399985
+Standard deviation: 82.33109680576348
+Max: 826.9
+Min: 399.9
+Average: 627.5126
+
+Generation [865]:
+Variance: 6755.52860396
+Standard deviation: 82.19202275135952
+Max: 826.9
+Min: 399.9
+Average: 625.4098
+
+Generation [866]:
+Variance: 7047.710745440002
+Standard deviation: 83.95064469937084
+Max: 826.9
+Min: 435.49999999999994
+Average: 618.9884000000002
+
+Generation [867]:
+Variance: 8166.792499
+Standard deviation: 90.3703076181552
+Max: 826.9
+Min: 409.0999999999999
+Average: 625.391
+
+Generation [868]:
+Variance: 8415.229038239997
+Standard deviation: 91.73455749192884
+Max: 826.9
+Min: 409.0999999999999
+Average: 632.2275999999999
+
+Generation [869]:
+Variance: 7513.220629759998
+Standard deviation: 86.67883611216753
+Max: 826.9
+Min: 451.3999999999999
+Average: 624.4968
+
+Generation [870]:
+Variance: 7682.542481759997
+Standard deviation: 87.65011398600687
+Max: 835.0
+Min: 451.3999999999999
+Average: 625.3268
+
+Generation [871]:
+Variance: 7076.58373216
+Standard deviation: 84.12243299001759
+Max: 819.5999999999999
+Min: 443.4
+Average: 618.3528
+
+Generation [872]:
+Variance: 7219.36846156
+Standard deviation: 84.96686684561223
+Max: 818.9
+Min: 443.4
+Average: 620.7561999999999
+
+Generation [873]:
+Variance: 6561.06946444
+Standard deviation: 81.00042879170455
+Max: 818.0999999999999
+Min: 443.79999999999995
+Average: 615.4834000000002
+
+Generation [874]:
+Variance: 7081.471092639999
+Standard deviation: 84.15147706748824
+Max: 818.0999999999999
+Min: 436.2
+Average: 610.3644
+
+Generation [875]:
+Variance: 7890.1739673600005
+Standard deviation: 88.82665122225424
+Max: 819.1999999999999
+Min: 438.79999999999995
+Average: 603.8208000000001
+
+Generation [876]:
+Variance: 7563.366278839999
+Standard deviation: 86.9676162651363
+Max: 819.1999999999999
+Min: 378.7
+Average: 602.6546000000001
+
+Generation [877]:
+Variance: 7392.935186039999
+Standard deviation: 85.9821794678409
+Max: 819.1999999999999
+Min: 427.8
+Average: 601.3914
+
+Generation [878]:
+Variance: 7517.363578359998
+Standard deviation: 86.70273108939533
+Max: 823.2999999999998
+Min: 427.8
+Average: 598.5142
+
+Generation [879]:
+Variance: 7382.65656556
+Standard deviation: 85.92238687071024
+Max: 823.2999999999998
+Min: 408.3
+Average: 596.6537999999999
+
+Generation [880]:
+Variance: 7365.809152440001
+Standard deviation: 85.82429232123036
+Max: 823.2999999999998
+Min: 390.0
+Average: 603.1766000000001
+
+Generation [881]:
+Variance: 8306.146738039999
+Standard deviation: 91.13806415565342
+Max: 823.2999999999998
+Min: 368.09999999999997
+Average: 608.9013999999999
+
+Generation [882]:
+Variance: 7114.01476364
+Standard deviation: 84.34461905563388
+Max: 823.2999999999998
+Min: 386.09999999999997
+Average: 592.9806000000001
+
+Generation [883]:
+Variance: 6470.432642559999
+Standard deviation: 80.43899951242555
+Max: 819.1999999999999
+Min: 409.49999999999994
+Average: 596.1088000000001
+
+Generation [884]:
+Variance: 7059.227930999999
+Standard deviation: 84.0192116780442
+Max: 819.1999999999999
+Min: 371.49999999999994
+Average: 592.627
+
+Generation [885]:
+Variance: 7281.009118840002
+Standard deviation: 85.32882935350749
+Max: 819.1999999999999
+Min: 425.59999999999997
+Average: 597.1046
+
+Generation [886]:
+Variance: 7231.223368760001
+Standard deviation: 85.03660017169078
+Max: 818.5
+Min: 384.6
+Average: 599.5681999999999
+
+Generation [887]:
+Variance: 6608.031734240002
+Standard deviation: 81.28980092385515
+Max: 808.5
+Min: 422.5
+Average: 596.6524000000001
+
+Generation [888]:
+Variance: 6562.131035640001
+Standard deviation: 81.00698140061758
+Max: 808.5
+Min: 446.70000000000005
+Average: 599.5706000000001
+
+Generation [889]:
+Variance: 7922.430087160001
+Standard deviation: 89.00803383492976
+Max: 812.0
+Min: 405.4
+Average: 607.1221999999999
+
+Generation [890]:
+Variance: 7681.668759160001
+Standard deviation: 87.64512969446734
+Max: 808.5
+Min: 405.4
+Average: 599.6578000000001
+
+Generation [891]:
+Variance: 7159.299255840003
+Standard deviation: 84.61264241140329
+Max: 808.5
+Min: 400.6000000000001
+Average: 596.1804000000001
+
+Generation [892]:
+Variance: 6640.7958960000005
+Standard deviation: 81.49107862827685
+Max: 808.5
+Min: 388.09999999999997
+Average: 600.912
+
+Generation [893]:
+Variance: 6542.490538360001
+Standard deviation: 80.88566336724946
+Max: 808.5
+Min: 449.59999999999997
+Average: 601.2358
+
+Generation [894]:
+Variance: 6784.540819
+Standard deviation: 82.36832412402234
+Max: 808.5
+Min: 423.5
+Average: 607.709
+
+Generation [895]:
+Variance: 6982.554658999999
+Standard deviation: 83.56168176263567
+Max: 808.5
+Min: 420.3
+Average: 616.091
+
+Generation [896]:
+Variance: 6971.177035999999
+Standard deviation: 83.49357481866494
+Max: 808.5
+Min: 420.3
+Average: 608.242
+
+Generation [897]:
+Variance: 6964.126964640001
+Standard deviation: 83.45134489413577
+Max: 808.5
+Min: 420.3
+Average: 613.5756
+
+Generation [898]:
+Variance: 7677.850720160002
+Standard deviation: 87.62334574849332
+Max: 808.5
+Min: 384.79999999999995
+Average: 614.6772
+
+Generation [899]:
+Variance: 8080.995419000002
+Standard deviation: 89.89435699197142
+Max: 808.5
+Min: 408.2
+Average: 612.111
+
+Generation [900]:
+Variance: 8783.20108076
+Standard deviation: 93.71873388367985
+Max: 808.5
+Min: 408.2
+Average: 610.1881999999999
+
+Generation [901]:
+Variance: 9039.938624
+Standard deviation: 95.07859182802405
+Max: 808.5
+Min: 294.2
+Average: 601.844
+
+Generation [902]:
+Variance: 9630.014456
+Standard deviation: 98.13263705821831
+Max: 816.8000000000001
+Min: 294.2
+Average: 602.772
+
+Generation [903]:
+Variance: 8738.740618999998
+Standard deviation: 93.48123137293389
+Max: 816.8000000000001
+Min: 278.2
+Average: 599.059
+
+Generation [904]:
+Variance: 9904.65582444
+Standard deviation: 99.52213735868015
+Max: 808.5
+Min: 278.2
+Average: 601.2834
+
+Generation [905]:
+Variance: 9587.89988176
+Standard deviation: 97.91782208443976
+Max: 806.0
+Min: 297.0
+Average: 603.7732
+
+Generation [906]:
+Variance: 9633.521739
+Standard deviation: 98.1505055463292
+Max: 806.0
+Min: 398.0
+Average: 606.6810000000002
+
+Generation [907]:
+Variance: 8523.37334476
+Standard deviation: 92.32211731085894
+Max: 797.1
+Min: 398.0
+Average: 593.5282
+
+Generation [908]:
+Variance: 9162.165840439999
+Standard deviation: 95.71920309133377
+Max: 804.3
+Min: 398.0
+Average: 607.2134
+
+Generation [909]:
+Variance: 9946.381131639999
+Standard deviation: 99.73154531862022
+Max: 797.1
+Min: 368.20000000000005
+Average: 611.3093999999999
+
+Generation [910]:
+Variance: 10133.527931
+Standard deviation: 100.66542569820088
+Max: 804.1999999999999
+Min: 324.6
+Average: 619.193
+
+Generation [911]:
+Variance: 10340.144759840001
+Standard deviation: 101.68650234834513
+Max: 804.1999999999999
+Min: 398.0
+Average: 623.5004
+
+Generation [912]:
+Variance: 9763.357702839998
+Standard deviation: 98.80970449728102
+Max: 804.1999999999999
+Min: 407.0
+Average: 621.6654
+
+Generation [913]:
+Variance: 9053.51720044
+Standard deviation: 95.14997215154611
+Max: 811.5
+Min: 348.40000000000003
+Average: 618.8133999999999
+
+Generation [914]:
+Variance: 8729.463531
+Standard deviation: 93.43159814002969
+Max: 811.5
+Min: 408.50000000000006
+Average: 617.907
+
+Generation [915]:
+Variance: 9258.373578559998
+Standard deviation: 96.22044262296863
+Max: 810.9000000000001
+Min: 418.4000000000001
+Average: 613.2511999999999
+
+Generation [916]:
+Variance: 8994.13134224
+Standard deviation: 94.8373942189472
+Max: 810.9000000000001
+Min: 433.40000000000003
+Average: 608.0076000000001
+
+Generation [917]:
+Variance: 8489.935952439999
+Standard deviation: 92.14084844649521
+Max: 810.9000000000001
+Min: 436.40000000000003
+Average: 609.9734000000001
+
+Generation [918]:
+Variance: 7386.02584364
+Standard deviation: 85.94199115473181
+Max: 791.1
+Min: 426.40000000000003
+Average: 603.9306
+
+Generation [919]:
+Variance: 7750.55131984
+Standard deviation: 88.03721553888447
+Max: 806.3000000000001
+Min: 446.59999999999997
+Average: 599.6004
+
+Generation [920]:
+Variance: 7846.362679360001
+Standard deviation: 88.57969676714862
+Max: 814.2000000000002
+Min: 399.1
+Average: 600.1008
+
+Generation [921]:
+Variance: 8330.67428384
+Standard deviation: 91.27252754164311
+Max: 814.2000000000002
+Min: 394.3
+Average: 591.6704000000001
+
+Generation [922]:
+Variance: 7737.823424760002
+Standard deviation: 87.9648988219733
+Max: 814.2000000000002
+Min: 410.4000000000001
+Average: 587.5282
+
+Generation [923]:
+Variance: 7756.867396000002
+Standard deviation: 88.07307985985277
+Max: 814.2000000000002
+Min: 419.6
+Average: 586.098
+
+Generation [924]:
+Variance: 8904.770382840003
+Standard deviation: 94.36509091205286
+Max: 798.8000000000001
+Min: 410.0
+Average: 595.3654
+
+Generation [925]:
+Variance: 8547.731856000002
+Standard deviation: 92.45394451293033
+Max: 805.4
+Min: 335.3
+Average: 594.008
+
+Generation [926]:
+Variance: 8449.497246240004
+Standard deviation: 91.92114689362836
+Max: 805.4
+Min: 335.3
+Average: 588.3876000000001
+
+Generation [927]:
+Variance: 8639.944560000002
+Standard deviation: 92.95130208878196
+Max: 805.4
+Min: 337.6
+Average: 589.26
+
+Generation [928]:
+Variance: 8273.608928960002
+Standard deviation: 90.95938065400402
+Max: 805.4
+Min: 387.0
+Average: 590.3152000000001
+
+Generation [929]:
+Variance: 8625.757073760004
+Standard deviation: 92.87495396370328
+Max: 812.4000000000001
+Min: 421.6000000000001
+Average: 597.1068
+
+Generation [930]:
+Variance: 8934.010484000002
+Standard deviation: 94.51989464657693
+Max: 792.4000000000001
+Min: 424.8
+Average: 606.874
+
+Generation [931]:
+Variance: 9204.454906360002
+Standard deviation: 95.93985046037962
+Max: 793.6000000000001
+Min: 352.2
+Average: 603.6941999999999
+
+Generation [932]:
+Variance: 8864.373079160001
+Standard deviation: 94.15079967350252
+Max: 794.5000000000001
+Min: 352.2
+Average: 606.7078
+
+Generation [933]:
+Variance: 8940.112236160001
+Standard deviation: 94.55216674492448
+Max: 797.1
+Min: 355.8
+Average: 611.9871999999999
+
+Generation [934]:
+Variance: 9800.934768640001
+Standard deviation: 98.9996705481387
+Max: 805.8000000000001
+Min: 355.8
+Average: 621.5944000000002
+
+Generation [935]:
+Variance: 9903.072495160002
+Standard deviation: 99.51418238201026
+Max: 814.7
+Min: 355.8
+Average: 624.0978
+
+Generation [936]:
+Variance: 9752.562377760001
+Standard deviation: 98.75506254243375
+Max: 814.7
+Min: 430.40000000000003
+Average: 627.3668
+
+Generation [937]:
+Variance: 10156.556967040002
+Standard deviation: 100.77974482523759
+Max: 863.8000000000001
+Min: 439.8999999999999
+Average: 633.4464
+
+Generation [938]:
+Variance: 10344.447329760003
+Standard deviation: 101.70765620030777
+Max: 839.8000000000001
+Min: 409.8999999999999
+Average: 632.5468000000001
+
+Generation [939]:
+Variance: 8942.359420000006
+Standard deviation: 94.5640492999322
+Max: 844.9000000000001
+Min: 432.40000000000003
+Average: 620.49
+
+Generation [940]:
+Variance: 8749.077756960005
+Standard deviation: 93.53650494304352
+Max: 844.9000000000001
+Min: 412.19999999999993
+Average: 619.3548000000001
+
+Generation [941]:
+Variance: 7729.992332640004
+Standard deviation: 87.92037495734424
+Max: 819.2000000000002
+Min: 418.09999999999997
+Average: 610.0356
+
+Generation [942]:
+Variance: 7931.478938040005
+Standard deviation: 89.05885098091039
+Max: 826.8000000000002
+Min: 423.59999999999997
+Average: 606.6514
+
+Generation [943]:
+Variance: 8124.234498240004
+Standard deviation: 90.1345355468147
+Max: 826.8000000000002
+Min: 405.49999999999994
+Average: 602.0776000000001
+
+Generation [944]:
+Variance: 9846.278048760005
+Standard deviation: 99.22841351528304
+Max: 828.0000000000001
+Min: 400.3999999999999
+Average: 609.6318
+
+Generation [945]:
+Variance: 9856.502200160005
+Standard deviation: 99.27991841334281
+Max: 828.0000000000001
+Min: 400.3999999999999
+Average: 615.3228
+
+Generation [946]:
+Variance: 10635.046859000004
+Standard deviation: 103.12636354977326
+Max: 834.4000000000001
+Min: 398.4000000000001
+Average: 627.131
+
+Generation [947]:
+Variance: 10692.655651000005
+Standard deviation: 103.40529798322717
+Max: 834.4000000000001
+Min: 398.6000000000001
+Average: 624.733
+
+Generation [948]:
+Variance: 9325.988251840003
+Standard deviation: 96.5711564176385
+Max: 828.0000000000001
+Min: 322.70000000000005
+Average: 620.5104000000001
+
+Generation [949]:
+Variance: 8391.994514360003
+Standard deviation: 91.60782998390478
+Max: 828.0000000000001
+Min: 322.70000000000005
+Average: 614.2742
+
+Generation [950]:
+Variance: 8437.587120440005
+Standard deviation: 91.85633957675434
+Max: 846.7
+Min: 427.0999999999999
+Average: 607.4366000000001
+
+Generation [951]:
+Variance: 9054.255963960006
+Standard deviation: 95.15385417291307
+Max: 831.3000000000001
+Min: 408.6
+Average: 612.1598
+
+Generation [952]:
+Variance: 9751.697668640005
+Standard deviation: 98.7506843958056
+Max: 844.7000000000002
+Min: 350.50000000000006
+Average: 618.3556000000001
+
+Generation [953]:
+Variance: 9770.872539000005
+Standard deviation: 98.84772399504202
+Max: 844.7000000000002
+Min: 350.50000000000006
+Average: 615.919
+
+Generation [954]:
+Variance: 9547.403995000004
+Standard deviation: 97.71081820863033
+Max: 844.7000000000002
+Min: 396.2
+Average: 614.975
+
+Generation [955]:
+Variance: 10278.040219040007
+Standard deviation: 101.3806698490398
+Max: 844.7000000000002
+Min: 424.1
+Average: 621.2436000000001
+
+Generation [956]:
+Variance: 9548.317589440003
+Standard deviation: 97.71549308804619
+Max: 844.7000000000002
+Min: 400.3
+Average: 621.2584000000002
+
+Generation [957]:
+Variance: 8626.881799160004
+Standard deviation: 92.88100881859545
+Max: 844.7000000000002
+Min: 400.3
+Average: 616.8421999999999
+
+Generation [958]:
+Variance: 8139.145482040003
+Standard deviation: 90.21721278137561
+Max: 828.9000000000001
+Min: 391.5
+Average: 620.3714
+
+Generation [959]:
+Variance: 8572.234967840004
+Standard deviation: 92.58636491319876
+Max: 828.9000000000001
+Min: 388.29999999999995
+Average: 619.7596
+
+Generation [960]:
+Variance: 8593.183659640003
+Standard deviation: 92.69942642562576
+Max: 834.1000000000001
+Min: 388.29999999999995
+Average: 618.4494
+
+Generation [961]:
+Variance: 8102.488218040003
+Standard deviation: 90.01382237212239
+Max: 819.4000000000001
+Min: 467.1
+Average: 626.5514000000001
+
+Generation [962]:
+Variance: 9220.187819040004
+Standard deviation: 96.02180908022929
+Max: 819.4000000000001
+Min: 400.50000000000006
+Average: 627.6564
+
+Generation [963]:
+Variance: 9692.167749240003
+Standard deviation: 98.44880775936295
+Max: 819.4000000000001
+Min: 400.50000000000006
+Average: 632.6273999999999
+
+Generation [964]:
+Variance: 10040.230603360005
+Standard deviation: 100.20095111005686
+Max: 819.4000000000001
+Min: 423.9000000000001
+Average: 649.3108000000001
+
+Generation [965]:
+Variance: 9462.804531000003
+Standard deviation: 97.27694758266217
+Max: 822.8000000000001
+Min: 421.4000000000001
+Average: 645.417
+
+Generation [966]:
+Variance: 8837.263139000002
+Standard deviation: 94.00671858436503
+Max: 838.3000000000001
+Min: 447.80000000000007
+Average: 644.259
+
+Generation [967]:
+Variance: 8179.470984000005
+Standard deviation: 90.44042781853702
+Max: 838.3000000000001
+Min: 435.6
+Average: 638.696
+
+Generation [968]:
+Variance: 7238.245342240004
+Standard deviation: 85.07787810141954
+Max: 838.3000000000001
+Min: 435.6
+Average: 634.6075999999999
+
+Generation [969]:
+Variance: 7059.063061240005
+Standard deviation: 84.01823052909413
+Max: 829.0000000000001
+Min: 438.50000000000006
+Average: 635.1626000000001
+
+Generation [970]:
+Variance: 7131.8160292400025
+Standard deviation: 84.45008010203426
+Max: 843.9000000000001
+Min: 438.50000000000006
+Average: 636.0774
+
+Generation [971]:
+Variance: 7265.939291640004
+Standard deviation: 85.24047918471601
+Max: 834.0000000000001
+Min: 436.4
+Average: 640.8406000000001
+
+Generation [972]:
+Variance: 6600.403884000003
+Standard deviation: 81.24286974251957
+Max: 820.2
+Min: 436.4
+Average: 642.126
+
+Generation [973]:
+Variance: 6777.321817440003
+Standard deviation: 82.32449099411427
+Max: 851.4000000000001
+Min: 453.0
+Average: 648.0484
+
+Generation [974]:
+Variance: 7597.883343160002
+Standard deviation: 87.16583816587782
+Max: 851.4000000000001
+Min: 458.9000000000001
+Average: 643.9678
+
+Generation [975]:
+Variance: 7111.450846240002
+Standard deviation: 84.32941862861384
+Max: 820.0
+Min: 453.79999999999995
+Average: 647.6124
+
+Generation [976]:
+Variance: 6945.043242360001
+Standard deviation: 83.33692604338128
+Max: 828.3000000000001
+Min: 435.99999999999994
+Average: 647.8542
+
+Generation [977]:
+Variance: 7547.762557440003
+Standard deviation: 86.87785999574346
+Max: 828.3000000000001
+Min: 436.1000000000001
+Average: 646.7016
+
+Generation [978]:
+Variance: 7335.908724000003
+Standard deviation: 85.64991957964702
+Max: 828.3000000000001
+Min: 414.9
+Average: 641.834
+
+Generation [979]:
+Variance: 7428.8100983600025
+Standard deviation: 86.19054529564134
+Max: 828.3000000000001
+Min: 386.2
+Average: 644.5641999999999
+
+Generation [980]:
+Variance: 6977.530018040004
+Standard deviation: 83.53161089096751
+Max: 817.0000000000001
+Min: 414.9
+Average: 643.1014
+
+Generation [981]:
+Variance: 7516.529161440003
+Standard deviation: 86.69791901447233
+Max: 817.0000000000001
+Min: 462.8
+Average: 638.5316
+
+Generation [982]:
+Variance: 7976.100957440004
+Standard deviation: 89.30901946298596
+Max: 832.4000000000001
+Min: 457.5
+Average: 631.9984000000001
+
+Generation [983]:
+Variance: 7956.384060640004
+Standard deviation: 89.19856535079477
+Max: 832.4000000000001
+Min: 410.3
+Average: 636.4956
+
+Generation [984]:
+Variance: 7909.890087160003
+Standard deviation: 88.93756285822094
+Max: 820.6000000000001
+Min: 410.3
+Average: 632.2278
+
+Generation [985]:
+Variance: 8045.843970040003
+Standard deviation: 89.698628585057
+Max: 820.6000000000001
+Min: 410.3
+Average: 640.3886000000001
+
+Generation [986]:
+Variance: 7356.744636000004
+Standard deviation: 85.7714674935669
+Max: 832.4000000000001
+Min: 410.0
+Average: 639.362
+
+Generation [987]:
+Variance: 7300.904643040002
+Standard deviation: 85.44533131213198
+Max: 832.4000000000001
+Min: 403.7
+Average: 637.3764
+
+Generation [988]:
+Variance: 6166.502425440003
+Standard deviation: 78.52708084119773
+Max: 832.4000000000001
+Min: 465.6
+Average: 629.5883999999999
+
+Generation [989]:
+Variance: 6769.335654560004
+Standard deviation: 82.2759725227238
+Max: 832.4000000000001
+Min: 409.2
+Average: 636.8611999999999
+
+Generation [990]:
+Variance: 6328.012528160002
+Standard deviation: 79.54880595056096
+Max: 832.4000000000001
+Min: 418.79999999999995
+Average: 626.0572
+
+Generation [991]:
+Variance: 5772.644459000003
+Standard deviation: 75.97792086520927
+Max: 832.4000000000001
+Min: 429.50000000000006
+Average: 621.321
+
+Generation [992]:
+Variance: 5298.836074560001
+Standard deviation: 72.79310458113461
+Max: 832.4000000000001
+Min: 456.99999999999994
+Average: 613.3888000000001
+
+Generation [993]:
+Variance: 5449.46362124
+Standard deviation: 73.82048239641895
+Max: 832.4000000000001
+Min: 395.30000000000007
+Average: 611.6626000000001
+
+Generation [994]:
+Variance: 5068.646595960001
+Standard deviation: 71.19442812439749
+Max: 832.4000000000001
+Min: 395.30000000000007
+Average: 615.9602
+
+Generation [995]:
+Variance: 5108.7394840000015
+Standard deviation: 71.47544672123429
+Max: 804.8
+Min: 395.30000000000007
+Average: 618.034
+
+Generation [996]:
+Variance: 4643.203353760001
+Standard deviation: 68.14105483304468
+Max: 804.8
+Min: 438.3
+Average: 612.0068
+
+Generation [997]:
+Variance: 4785.851996000001
+Standard deviation: 69.17985252947567
+Max: 804.8
+Min: 388.40000000000003
+Average: 598.778
+
+Generation [998]:
+Variance: 4385.684675
+Standard deviation: 66.22450207438332
+Max: 804.8
+Min: 456.69999999999993
+Average: 597.205
+
+Generation [999]:
+Variance: 5228.256491640001
+Standard deviation: 72.30668358900165
+Max: 804.8
+Min: 453.29999999999995
+Average: 599.2406000000001
+
+Generation [1000]:
+Variance: 5088.243343040001
+Standard deviation: 71.33192373012241
+Max: 813.6
+Min: 453.9
+Average: 601.0264
+
+
+Winner's result: 813.6
+Winner's weight: 10.899999999999999
+Max weight was: 10.98
+
